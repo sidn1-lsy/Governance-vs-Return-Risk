@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Governance & Portfolio Risk — Comparative Analysis</title>
+<style>
+:root{--hi:#1d7a5f;--lo:#b4442e;--ink:#1a2027;--mut:#5d6b78;--line:#e3e8ee;--bg:#f7f9fb;}
+*{box-sizing:border-box}
+body{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:var(--ink);
+margin:0;background:var(--bg);line-height:1.55}
+.wrap{max-width:960px;margin:0 auto;padding:48px 28px 80px}
+h1{font-size:28px;margin:0 0 6px}
+.sub{color:var(--mut);font-size:15px;margin-bottom:28px}
+h2{font-size:20px;margin:44px 0 6px;padding-bottom:8px;border-bottom:2px solid var(--line)}
+h3{font-size:15px;letter-spacing:.04em;text-transform:uppercase;color:var(--mut);margin:28px 0 10px}
+.card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px 24px;margin:16px 0;
+box-shadow:0 1px 2px rgba(20,30,40,.04)}
+.hero{display:flex;gap:18px;flex-wrap:wrap;margin:22px 0}
+.kpi{flex:1;min-width:160px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+.kpi .big{font-size:30px;font-weight:700;color:var(--hi)}
+.kpi .lab{font-size:13px;color:var(--mut);margin-top:2px}
+table{width:100%;border-collapse:collapse;font-size:14px;margin-top:6px}
+th,td{text-align:right;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-size:12px;letter-spacing:.03em;text-transform:uppercase;color:var(--mut);font-weight:600}
+td.metric,th:first-child{text-align:left;font-weight:600}
+td.hi{color:var(--hi);font-weight:600} td.lo{color:var(--lo);font-weight:600}
+td.p{font-variant-numeric:tabular-nums} .star{color:var(--hi);font-weight:700}
+.verdict{font-weight:600} .verdict.good{color:var(--hi)} .verdict.bad{color:var(--lo)}
+.barblock{margin:16px 0}
+.barlabel{font-weight:600;font-size:14px;margin-bottom:6px}
+.barrow{display:flex;align-items:center;gap:10px;margin:5px 0}
+.btag{width:70px;font-size:12px;color:var(--mut)}
+.bar{flex:1;background:#eef2f6;border-radius:6px;overflow:hidden;height:26px}
+.fill{height:100%;display:flex;align-items:center;justify-content:flex-end;padding-right:8px;
+color:#fff;font-size:12px;font-weight:600;border-radius:6px}
+.fill.hi{background:var(--hi)} .fill.lo{background:var(--lo)}
+.tag{display:inline-block;background:#eaf5f0;color:var(--hi);border-radius:20px;padding:3px 12px;
+font-size:12px;font-weight:600;margin-right:6px}
+.callout{background:#eaf5f0;border-left:4px solid var(--hi);border-radius:8px;padding:16px 18px;margin:18px 0}
+.warn{background:#fdf3ef;border-left:4px solid var(--lo)}
+ul{margin:8px 0 8px 2px;padding-left:20px} li{margin:5px 0}
+.foot{color:var(--mut);font-size:12.5px;margin-top:40px;border-top:1px solid var(--line);padding-top:14px}
+code{background:#eef2f6;padding:1px 6px;border-radius:5px;font-size:13px}
+</style></head><body><div class="wrap">
+
+<h1>High vs. Low Governance — Comparative Risk Analysis</h1>
+<div class="sub">Equity portfolios ranked by Governance Pillar Score · 5-year window (Jul 2021 – Jul 2026) · daily &amp; monthly adjusted-close prices</div>
+
+<div class="hero">
+<div class="kpi"><div class="big">−24.9<span style="font-size:18px">pp</span></div><div class="lab">Lower annualized volatility for High Gov (daily)</div></div>
+<div class="kpi"><div class="big">−15.5<span style="font-size:18px">pp</span></div><div class="lab">Shallower average max drawdown</div></div>
+<div class="kpi"><div class="big" style="color:var(--lo)">0.29 vs 0.25</div><div class="lab">Sharpe ratio — no significant difference (p=0.58)</div></div>
+</div>
+
+<div class="callout">
+<strong>Headline.</strong> The High Governance portfolio carries <strong>materially and significantly lower risk</strong> (max drawdown, volatility, downside deviation; all p&lt;0.0001, large effect sizes) — but this did <strong>not</strong> translate into better performance: annualized returns and <strong>Sharpe ratios are statistically indistinguishable</strong> between the groups. Governance behaves as a <em>risk-reduction signal, not a performance-enhancement one</em>, and cannot be said to <em>prove</em> anything causal about future returns.
+</div>
+
+<h2>1 · Study design</h2>
+<div class="card">
+<p><span class="tag">Universe</span> Top 10% (<strong>High Governance</strong>) and bottom 10% (<strong>Low Governance</strong>) of securities by <em>Governance Pillar Score</em> from the GridExport file. After dropping private names (e.g., SpaceX) and any without price history, <strong>112 vs. 112 tickers</strong> remained.</p>
+<p><span class="tag">Prices</span> Historical <strong>adjusted close</strong> (dividend/split-adjusted), 1,254 trading days, 19 Jul 2021 – 16 Jul 2026. Daily returns used directly; monthly from month-end resampling.</p>
+<p><span class="tag">Metrics</span> Per ticker: <strong>Max Drawdown</strong> (peak-to-trough %), <strong>Annualized Volatility</strong> (σ<sub>daily</sub>×√252; monthly ×√12), <strong>Downside Deviation</strong> (σ of negative returns, annualized).</p>
+<p><span class="tag">Test</span> <strong>Welch's t-test</strong> (unequal variance) on group means. Two-sided p reported; all one-sided tests in the "lower risk" direction are also significant.</p>
+</div>
+
+<h2>2 · Results — Daily frequency</h2>
+<div class="card">
+<table>
+<thead><tr><th>Metric</th><th>High Gov (mean)</th><th>Low Gov (mean)</th><th>Median H / L</th><th>t</th><th>p (two-sided)</th><th>Cohen's d</th><th>Verdict</th></tr></thead>
+<tbody><tr>
+<td class="metric">Max Drawdown</td>
+<td class="hi">-45.72%</td>
+<td class="lo">-61.23%</td>
+<td>-43.71 / -64.30</td>
+<td>+5.94</td>
+<td class="p">1.3e-08 <span class="star">***</span></td>
+<td>+0.79</td>
+<td class="verdict good">Shallower risk ✓</td>
+</tr><tr>
+<td class="metric">Annualized Volatility</td>
+<td class="hi">33.50%</td>
+<td class="lo">58.40%</td>
+<td>30.71 / 51.68</td>
+<td>-7.99</td>
+<td class="p">5.0e-13 <span class="star">***</span></td>
+<td>-1.07</td>
+<td class="verdict good">Lower risk ✓</td>
+</tr><tr>
+<td class="metric">Downside Deviation</td>
+<td class="hi">23.07%</td>
+<td class="lo">37.12%</td>
+<td>21.59 / 35.38</td>
+<td>-8.53</td>
+<td class="p">1.4e-14 <span class="star">***</span></td>
+<td>-1.14</td>
+<td class="verdict good">Lower risk ✓</td>
+</tr></tbody>
+</table>
+<h3>Visual comparison (absolute magnitude)</h3>
+<div class="barblock">
+<div class="barlabel">Max Drawdown</div>
+<div class="barrow"><span class="btag">High Gov</span><div class="bar"><div class="fill hi" style="width:74.7%">45.7%</div></div></div>
+<div class="barrow"><span class="btag">Low Gov</span><div class="bar"><div class="fill lo" style="width:100.0%">61.2%</div></div></div>
+</div><div class="barblock">
+<div class="barlabel">Annualized Volatility</div>
+<div class="barrow"><span class="btag">High Gov</span><div class="bar"><div class="fill hi" style="width:57.4%">33.5%</div></div></div>
+<div class="barrow"><span class="btag">Low Gov</span><div class="bar"><div class="fill lo" style="width:100.0%">58.4%</div></div></div>
+</div><div class="barblock">
+<div class="barlabel">Downside Deviation</div>
+<div class="barrow"><span class="btag">High Gov</span><div class="bar"><div class="fill hi" style="width:62.2%">23.1%</div></div></div>
+<div class="barrow"><span class="btag">Low Gov</span><div class="bar"><div class="fill lo" style="width:100.0%">37.1%</div></div></div>
+</div>
+</div>
+
+<h2>3 · Results — Monthly frequency</h2>
+<div class="card">
+<table>
+<thead><tr><th>Metric</th><th>High Gov (mean)</th><th>Low Gov (mean)</th><th>Median H / L</th><th>t</th><th>p (two-sided)</th><th>Cohen's d</th><th>Verdict</th></tr></thead>
+<tbody><tr>
+<td class="metric">Max Drawdown</td>
+<td class="hi">-40.54%</td>
+<td class="lo">-55.80%</td>
+<td>-37.61 / -56.03</td>
+<td>+5.55</td>
+<td class="p">9.1e-08 <span class="star">***</span></td>
+<td>+0.74</td>
+<td class="verdict good">Shallower risk ✓</td>
+</tr><tr>
+<td class="metric">Annualized Volatility</td>
+<td class="hi">32.38%</td>
+<td class="lo">58.91%</td>
+<td>29.43 / 47.07</td>
+<td>-7.01</td>
+<td class="p">1.3e-10 <span class="star">***</span></td>
+<td>-0.94</td>
+<td class="verdict good">Lower risk ✓</td>
+</tr><tr>
+<td class="metric">Downside Deviation</td>
+<td class="hi">17.54%</td>
+<td class="lo">25.89%</td>
+<td>16.79 / 23.63</td>
+<td>-6.92</td>
+<td class="p">1.1e-10 <span class="star">***</span></td>
+<td>-0.92</td>
+<td class="verdict good">Lower risk ✓</td>
+</tr></tbody>
+</table>
+<h3>Visual comparison (absolute magnitude)</h3>
+<div class="barblock">
+<div class="barlabel">Max Drawdown</div>
+<div class="barrow"><span class="btag">High Gov</span><div class="bar"><div class="fill hi" style="width:72.7%">40.5%</div></div></div>
+<div class="barrow"><span class="btag">Low Gov</span><div class="bar"><div class="fill lo" style="width:100.0%">55.8%</div></div></div>
+</div><div class="barblock">
+<div class="barlabel">Annualized Volatility</div>
+<div class="barrow"><span class="btag">High Gov</span><div class="bar"><div class="fill hi" style="width:55.0%">32.4%</div></div></div>
+<div class="barrow"><span class="btag">Low Gov</span><div class="bar"><div class="fill lo" style="width:100.0%">58.9%</div></div></div>
+</div><div class="barblock">
+<div class="barlabel">Downside Deviation</div>
+<div class="barrow"><span class="btag">High Gov</span><div class="bar"><div class="fill hi" style="width:67.7%">17.5%</div></div></div>
+<div class="barrow"><span class="btag">Low Gov</span><div class="bar"><div class="fill lo" style="width:100.0%">25.9%</div></div></div>
+</div>
+</div>
+
+<h2>4 · Interpretation</h2>
+<div class="card">
+<p>Better governance is associated with <strong>calmer, more resilient</strong> equity behavior. High Governance names swung roughly <strong>half as much</strong> (33.5% vs 58.4% annualized volatility) and, critically, their worst peak-to-trough loss averaged <strong>−45.7%</strong> versus <strong>−61.2%</strong> for Low Governance — a ~15-point cushion in the most painful scenario. Downside deviation, which isolates losing days, tells the same story (23.1% vs 37.1%).</p>
+<p>The <strong>monthly results confirm the daily ones</strong>, so the effect is not an artifact of short-term noise. Large effect sizes (|d| ≈ 0.7–1.1) mean the gap is not just statistically detectable but economically meaningful.</p>
+</div>
+
+<h2>5 · Performance &amp; risk-adjusted return (Sharpe)</h2>
+<div class="card">
+<p>Lower risk is only half the question — the decisive test is whether High Governance <em>also</em> delivered better performance. It did not. Raw returns are statistically indistinguishable, and on a risk-adjusted basis (Sharpe, r<sub>f</sub> = 3%) the two groups are effectively tied.</p>
+<table>
+<thead><tr><th>Metric</th><th>High Gov (mean)</th><th>Low Gov (mean)</th><th>Median H / L</th><th>t</th><th>p (two-sided)</th><th>Verdict</th></tr></thead>
+<tbody>
+<tr><td class="metric">Annualized Return</td><td class="hi">12.43%</td><td class="lo">15.78%</td><td>10.65 / 12.04</td><td>-0.97</td><td class="p">0.331 <span class="star" style="color:var(--mut)">ns</span></td><td class="verdict bad">No advantage</td></tr>
+<tr><td class="metric">Sharpe Ratio</td><td class="hi">0.29</td><td class="lo">0.25</td><td>0.25 / 0.21</td><td>+0.56</td><td class="p">0.577 <span class="star" style="color:var(--mut)">ns</span></td><td class="verdict bad">No sig. difference</td></tr>
+</tbody>
+</table>
+<div class="callout" style="background:#fdf3ef;border-left-color:var(--lo)">
+<strong>Key insight from Sharpe.</strong> High Governance cut volatility roughly in half — but its raw returns were also lower (12.4% vs 15.8%). The two effects cancel: Sharpe is ~0.29 vs ~0.25, a difference that is <strong>not statistically significant (p = 0.58)</strong>. So better governance bought <em>lower risk</em>, not <em>better risk-adjusted performance</em>.
+</div>
+</div>
+
+<h2>6 · Correlations with Governance Score</h2>
+<div class="card">
+<p>Measured continuously across the pooled 224 names (Spearman, rank-based; Pearson also shown):</p>
+<table>
+<thead><tr><th>Variable vs. Governance</th><th>Spearman ρ</th><th>Pearson r</th><th>Reading</th></tr></thead>
+<tbody>
+<tr><td class="metric">Annualized Volatility</td><td class="hi">−0.44 ***</td><td>−0.47</td><td>Strong: higher gov → lower risk</td></tr>
+<tr><td class="metric">Historical Avg Price</td><td>+0.31 ***</td><td>−0.06</td><td>Spurious — see note</td></tr>
+<tr><td class="metric">Annualized Return</td><td>−0.05 <span style="color:var(--mut)">ns</span></td><td>−0.06</td><td>No relationship</td></tr>
+<tr><td class="metric">Sharpe Ratio</td><td>+0.02 <span style="color:var(--mut)">ns</span></td><td>+0.04</td><td>No relationship</td></tr>
+</tbody>
+</table>
+<p style="margin-top:14px"><strong>On "does governance correlate with historical average price?"</strong> Not meaningfully. The rank correlation (+0.31) is real but <em>economically meaningless</em>: a stock's price <em>level</em> ($40 vs $400) is an arbitrary artifact of share count and split history, not a measure of quality or performance. The Pearson value is ~0 and flips sign because the average is dominated by extreme outliers (e.g. Berkshire Class A, which sits in the Low group at &gt;$5,000/share). Price level should not be used as a performance variable.</p>
+</div>
+
+<h2>7 · Does this <u>prove</u> governance reduces future risk and improves performance?</h2>
+<div class="card">
+<p><strong>No — and it is important to be precise about what the data can and cannot support:</strong></p>
+<ul>
+<li><strong>Reduces risk?</strong> Strongly <em>supported as an association</em>. Lower volatility, drawdown, and downside deviation are all highly significant (p &lt; 0.0001) with large effect sizes. But this is one 5-year window measured cross-sectionally — it cannot <em>prove causation</em>, and "future" risk is an extrapolation, not a demonstrated fact.</li>
+<li><strong>Improves performance?</strong> <em>Not supported.</em> Neither raw returns (p = 0.33) nor Sharpe ratios (p = 0.58) differ significantly. High Governance was calmer but not more rewarding on a risk-adjusted basis.</li>
+<li><strong>Why "prove" is the wrong word.</strong> Proving causation about the <em>future</em> would require: (1) a forward-looking, out-of-sample test (rank today, measure realised returns later); (2) controls for confounders — sector, size, beta, and age, since Low-Gov names skew toward speculative recent IPOs; and (3) replication across multiple market regimes, not just the 2021–2026 window that includes the 2022 sell-off.</li>
+</ul>
+<div class="callout"><strong>Bottom line.</strong> Higher governance is reliably associated with <strong>lower risk</strong>, shows <strong>no reliable link to higher returns or Sharpe</strong>, and has <strong>no meaningful relationship with price level</strong>. The evidence supports governance as a <em>risk-reduction signal</em>, not a <em>performance-enhancement</em> or causal-forecasting one.</div>
+</div>
+
+<h2>8 · Controlled test — does the effect survive confounders?</h2>
+<div class="card">
+<p>A key objection: Low-Governance names skew small, high-beta, and speculative, so the risk gap might just be those traits. To check, each forward outcome was regressed on governance <em>plus</em> controls (log market cap, point-in-time beta where relevant, and GICS sector fixed effects). The governance coefficient is what matters:</p>
+<table>
+<thead><tr><th>Outcome</th><th>Controls</th><th>Gov. coef</th><th>t</th><th>p</th><th>Survives?</th></tr></thead>
+<tbody>
+<tr><td class="metric">Volatility (risk)</td><td>size + sector FE</td><td class="hi">−0.247</td><td>−5.92</td><td class="p">&lt;0.0001 <span class="star">***</span></td><td class="verdict good">Yes ✓</td></tr>
+<tr><td class="metric">Annualized Return</td><td>size + beta + sector FE</td><td>−0.012</td><td>−0.32</td><td class="p">0.75 <span style="color:var(--mut)">ns</span></td><td class="verdict bad">No effect</td></tr>
+<tr><td class="metric">Sharpe Ratio</td><td>size + beta + sector FE</td><td>−0.0001</td><td>−0.12</td><td class="p">0.90 <span style="color:var(--mut)">ns</span></td><td class="verdict bad">No effect</td></tr>
+</tbody>
+</table>
+<p style="margin-top:12px">The risk finding is <strong>robust</strong>: even after controlling for size and sector, each additional governance point predicts ~0.25pp lower annualized volatility (p&lt;0.0001). The <strong>return and Sharpe effects remain flat and insignificant</strong> — confirming governance is a risk signal, not a performance one, and not merely a proxy for size or sector.</p>
+</div>
+
+<h2>9 · Forward out-of-sample test — design &amp; how to run it</h2>
+<div class="card">
+<p>Everything above is <em>cross-sectional</em> (one window). To test whether governance genuinely <strong>predicts the future</strong>, the script <code>forward_test.py</code> implements a true out-of-sample design:</p>
+<ul>
+<li><strong>Rank at a past formation date</strong> (default 2021-07-15) using governance <em>known at that time</em>, then measure the risk/return each name <em>subsequently</em> realised through 2026.</li>
+<li><strong>Point-in-time beta</strong> estimated from a pre-formation window (no look-ahead), plus <strong>company age</strong> (years listed at formation, from first-trade date) and log size &amp; sector as controls.</li>
+<li>Outputs both a top-vs-bottom-decile <strong>Welch test</strong> on forward outcomes and a <strong>controlled regression</strong> of forward risk/return/Sharpe on governance.</li>
+</ul>
+<div class="callout warn">
+<strong>One data requirement to make it genuinely predictive.</strong> The test must rank on governance <em>as it stood in 2021</em>, but the GridExport only holds current (2026) scores. Feeding current scores in creates look-ahead bias — the script runs but prints a loud warning and the result is contemporaneous, not forward. To run it properly, supply <code>governance_pit.csv</code> (columns: <code>RIC</code>, <code>gov</code>) from a GridExport pulled with the <strong>as-of date set to mid-2021</strong>. Then: <code>python forward_test.py</code>.
+</div>
+</div>
+
+<h2>10 · Caveats</h2>
+<div class="callout warn">
+<ul>
+<li><strong>Association, not proof of causation.</strong> Low-governance names here skew toward speculative, recent-IPO, and high-beta profiles; governance may be a marker for that risk profile rather than its sole cause.</li>
+<li><strong>Survivorship &amp; window.</strong> The 2021–2026 window includes the 2022 drawdown, which amplifies differences between stable and speculative names. Results can shift in other regimes.</li>
+<li><strong>Data source.</strong> Prices are yfinance adjusted close, which can differ marginally from LSEG total-return series; magnitudes may move slightly but the ranking and significance are robust.</li>
+<li><strong>Risk ≠ return.</strong> This analysis measures risk only. Lower risk does not by itself imply higher future returns.</li>
+</ul>
+</div>
+
+<div class="foot">
+Generated from <code>prices_daily_wide.csv</code> / <code>prices_monthly_wide.csv</code> · risk metrics in <code>metrics_daily.csv</code> &amp; <code>metrics_monthly.csv</code> · return/Sharpe/price in <code>perf_metrics.csv</code> · Sharpe uses r<sub>f</sub>=3% annual · significance ***p&lt;0.001, **p&lt;0.01, *p&lt;0.05, ns = not significant. Welch's two-sample t-test, unequal variance. Analysis date 17 Jul 2026.
+</div>
+
+</div></body></html>

@@ -1,0 +1,1542 @@
+Identifier (RIC),Company Name,Market Cap (Billions),Beta 5 Year,Governance Pillar Score (FY0),ESG Score (FY0),ROE 5 YR Avg
+NVDA.OQ,NVIDIA Corp,4925.43,2.22,85.51,74.05,66.85
+AAPL.OQ,Apple Inc,4660.44,1.09,89.08,71.07,149.64
+GOOGL.OQ,Alphabet Inc,4281.56,1.24,78.3,79.07,23.02
+MSFT.OQ,Microsoft Corp,2904.44,1.12,92.54,87.5,36.99
+AMZN.OQ,Amazon.com Inc,2660.34,1.47,50.45,69.04,16.83
+SPCX.OQ,Space Exploration Technologies Corp,1830.97,,0.26,3.2,
+AVGO.OQ,Broadcom Inc,1827.15,1.47,80.35,73.27,21.34
+META.OQ,Meta Platforms Inc,1667.06,1.24,44.14,53.52,29.62
+TSLA.OQ,Tesla Inc,1482.61,1.81,43.27,66.71,14.65
+LLY.N,Eli Lilly and Co,1113.02,0.5,33.09,67.01,86.98
+BRKa.N,Berkshire Hathaway Inc,1071.42,0.61,21.43,24.08,6.64
+MU.OQ,Micron Technology Inc,1058.24,2.17,65.49,62.89,19.81
+VOO.P,Vanguard 500 Index Fund,990.18,1.01,,,
+WMT.OQ,Walmart Inc,913.43,0.6,83.16,75.46,17.04
+JPM.N,JPMorgan Chase & Co,896.38,0.99,86.67,71.14,9.5
+IVV.P,iShares Trust - iShares Core S&P 500 ETF,887.44,1.01,,,
+AMD.OQ,Advanced Micro Devices Inc,871.38,2.47,80.04,70.41,11.34
+SPY.P,SPDR S&P 500 ETF Trust,783.21,1.01,,,
+V.N,Visa Inc,674.05,0.75,70.61,68.98,51.4
+JNJ.N,Johnson & Johnson,620.51,0.23,78.76,89.46,34.26
+XOM.N,Exxon Mobil Corp,598.99,0.17,42.3,57.09,18.07
+INTC.OQ,Intel Corp,518.28,2.22,81.7,78.35,7.25
+MA.N,Mastercard Inc,475.1,0.73,74.4,75.11,181.3
+QQQ.OQ,Invesco QQQ Trust Series 1,472.42,1.23,,,
+CSCO.OQ,Cisco Systems Inc,470.02,1.01,62.57,75.03,34.19
+AMAT.OQ,Applied Materials Inc,456.84,1.59,82.44,82.61,44.67
+ABBV.N,Abbvie Inc,438.16,0.28,51.19,72.55,85.16
+CAT.N,Caterpillar Inc,429.03,1.58,74.77,66.76,49.41
+BAC.N,Bank of America Corp,422.25,1.18,79.22,87.66,10.23
+LRCX.OQ,Lam Research Corp,412.59,1.83,78.13,74.16,26.92
+COST.OQ,Costco Wholesale Corp,410.85,0.87,91.01,73.35,29.45
+UNH.N,UnitedHealth Group Inc,389.68,0.63,68.14,66.41,19.33
+ORCL.N,Oracle Corp,378.9,1.7,34.38,52.26,-92.21
+GE.N,General Electric Co,368.74,1.37,71.45,79.1,19.02
+CVX.N,Chevron Corp,362.87,0.49,92.86,67.59,14.04
+KO.N,Coca-Cola Co,362.48,0.35,70.92,69.37,45.12
+MS.N,Morgan Stanley,348.72,1.22,36.24,56.13,10.41
+PG.N,Procter & Gamble Co,345.49,0.38,68.13,62.02,31.02
+HD.N,Home Depot Inc,336.14,0.95,71.48,73.17,3159.17
+ARM.OQ,ARM Holdings PLC,319.34,,38.92,48.95,10.5
+PLTR.OQ,Palantir Technologies Inc,311.75,1.58,39.38,29.94,18.34
+NFLX.OQ,Netflix Inc,310.88,1.52,23.38,37.4,10.07
+GS.N,Goldman Sachs Group Inc,308.55,1.3,94.7,76.5,12.36
+MRK.N,Merck & Co Inc,306.33,0.21,56.71,80.84,34.35
+KLAC.OQ,KLA Corp,290.32,1.42,86.34,68.44,27.35
+PM.N,Philip Morris International Inc,280.84,0.41,79.79,87.38,-99.95
+GEV.N,GE Vernova Inc,280.17,,75.92,43.96,5.91
+DELL.N,Dell Technologies Inc,275.97,1.31,71.34,69.31,-91.23
+IBM.N,International Business Machines Corp,272.78,0.67,51.37,70.65,39.46
+TXN.OQ,Texas Instruments Inc,271.73,1.31,36.38,61.87,42.92
+BABA.N,Alibaba Group Holding Ltd,269.31,0.52,89.44,87.13,105.43
+PANW.OQ,Palo Alto Networks Inc,269.19,0.91,27.87,49.82,36.69
+WFC.N,Wells Fargo & Co,268.29,0.92,67.63,61.52,9.17
+RTX.N,RTX Corp,264.48,0.3,45.19,59.75,11.27
+SNDK.OQ,Sandisk Corp,247.9,,49.5,44.03,8.02
+LIN.OQ,Linde PLC,242.3,0.72,34.71,76.86,17.09
+AXP.N,American Express Co,241.84,1.04,87.09,66.14,31.1
+C.N,Citigroup Inc,239.99,1.1,92.26,85.12,5.78
+ANET.N,Arista Networks Inc,228.1,1.6,40.39,51.71,17.74
+TMUS.OQ,T-Mobile US Inc,203.9,0.31,63.05,71.15,12.03
+TMO.N,Thermo Fisher Scientific Inc,196.41,0.86,74.91,82.08,19.38
+STX.OQ,Seagate Technology Holdings PLC,194.73,2.08,49.79,52.82,202.74
+AMGN.OQ,Amgen Inc,194.54,0.41,72.38,74.41,188.58
+QCOM.OQ,Qualcomm Inc,193.91,1.64,71.97,73.54,63.52
+MCD.N,McDonald's Corp,193.69,0.41,35.55,59.46,-211.34
+APH.N,Amphenol Corp,191.9,1.24,94.43,77.61,22.42
+WDC.OQ,Western Digital Corp,191.49,2.15,61.84,61.79,15.66
+CRWD.OQ,CrowdStrike Holdings Inc,191.35,1.24,30.89,28.36,10.91
+MRVL.OQ,Marvell Technology Inc,190.51,2.22,68.49,64.75,11.6
+PEP.OQ,PepsiCo Inc,189.02,0.36,93.54,78.68,55.23
+ADI.OQ,Analog Devices Inc,188.02,1.2,84.21,77.01,13.13
+VTV.P,Vanguard Value Index Fund,187.21,0.76,,,
+IEFA.Z,iShares Core MSCI EAFE ETF,185.67,0.79,,,
+NEE.N,Nextera Energy Inc,184.33,0.66,87.01,70.09,14.67
+VZ.N,Verizon Communications Inc,178.21,0.24,57.22,69.28,22.51
+SCHW.N,Charles Schwab Corp,178.05,0.77,31.11,38.66,19.06
+UNP.N,Union Pacific Corp,171.66,0.97,88.9,78.67,46.14
+BA.N,Boeing Co,169.89,1.21,70.01,80.18,-70.26
+BLK.N,BlackRock Inc,167.98,1.45,70.96,69.83,12.76
+DIS.N,Walt Disney Co,166.71,1.4,86.68,82.74,8.19
+TJX.N,TJX Companies Inc,166.29,0.62,53.63,68.66,60.54
+WELL.N,Welltower Inc,165.57,0.76,75.37,71.48,2.38
+GILD.OQ,"Gilead Sciences, Inc",163.14,0.34,88.57,86.99,42.66
+SHOP.OQ,Shopify Inc,161.87,2.58,31.96,29.25,10.59
+ABT.N,Abbott Laboratories,160.44,0.6,85.05,83.49,21.41
+BND.OQ,Vanguard Total Bond Market Index Fund,159.71,0.25,,,
+IBKR.OQ,Interactive Brokers Group Inc,158.7,1.34,24.01,45.0,40.25
+SPYM.P,SPDR Portfolio S&P 500 ETF,158.11,1.01,,,
+DE.N,Deere & Co,158.09,0.9,65.88,73.91,31.59
+GLW.N,Corning Inc,157.59,1.09,82.12,71.78,15.32
+ETN.N,Eaton Corporation PLC,156.43,1.18,17.33,63.88,20.72
+VXUS.OQ,Vanguard Total International Stock Index Fund,154.2,0.78,,,
+IEMG.P,iShares Core MSCI Emerging Markets ETF,151.97,0.74,,,
+UBER.N,Uber Technologies Inc,151.16,1.13,87.12,81.8,3.44
+T.N,AT&T Inc,149.74,0.22,39.65,72.18,15.32
+APP.OQ,Applovin Corp,148.77,2.52,30.38,28.71,111.86
+SCCO.N,Southern Copper Corp,145.62,1.13,69.34,74.01,36.68
+BX.N,Blackstone Inc,144.93,1.56,13.12,31.13,74.7
+ISRG.OQ,Intuitive Surgical Inc,144.19,1.45,61.19,62.1,16.56
+DHR.N,Danaher Corp,141.67,0.79,82.3,82.17,13.45
+VGT.P,Vanguard Information Technology Index Fund,141.48,1.35,,,
+CRM.N,Salesforce Inc,140.23,1.18,61.35,69.83,14.6
+PFE.N,Pfizer Inc,139.52,0.3,57.15,77.6,24.71
+AGG.P,iShares Core US Aggregate Bond ETF,138.03,0.25,,,
+CB.N,Chubb Limited,137.59,0.4,55.37,44.99,13.09
+COP.N,ConocoPhillips,137.48,0.13,41.16,59.9,20.5
+PGR.N,Progressive Corp,136.51,0.25,84.39,69.43,23.34
+BKNG.OQ,Booking Holdings Inc,136.22,1.08,68.03,46.69,-19.92
+CVS.N,CVS Health Corp,135.12,0.6,39.89,67.33,13.24
+PLD.N,Prologis Inc,132.54,1.33,68.44,66.83,7.61
+SPGI.N,S&P Global Inc,129.6,1.08,93.52,86.03,14.93
+SYK.N,Stryker Corp,127.06,0.77,77.79,77.08,23.15
+IWF.P,iShares Russell 1000 Growth,125.67,1.17,,,
+COF.N,Capital One Financial Corp,125.06,1.02,76.74,64.28,13.45
+SBUX.OQ,Starbucks Corp,122.34,0.96,77.52,74.95,-42.43
+VRTX.OQ,Vertex Pharmaceuticals Inc,121.89,0.3,55.06,60.78,22.78
+IJH.P,iShares Core S&P Mid-Cap ETF,121.69,1.02,,,
+BMY.N,Bristol-Myers Squibb Co,121.18,0.23,62.16,75.86,51.94
+VWO.P,Vanguard International Equity Index Funds - Vanguard Emerging Markets Stock Index Fund,120.71,0.62,,,
+PDD.OQ,PDD Holdings Inc,120.36,0.02,14.61,22.05,135.37
+LMT.N,Lockheed Martin Corp,120.05,0.12,89.47,85.62,83.3
+MO.N,Altria Group Inc,120.02,0.5,85.25,85.19,21.21
+PH.N,Parker-Hannifin Corp,119.94,1.11,75.86,60.97,27.56
+XLK.P,Select Sector SPDR Trust - Technology Select Sector SPDR Fund,118.12,1.34,,,
+FTNT.OQ,Fortinet Inc,117.68,1.08,26.94,49.17,260.64
+VRT.N,Vertiv Holdings Co,117.49,2.03,31.88,50.95,38.32
+LOW.N,Lowe's Companies Inc,116.46,0.85,73.11,77.56,-91.5
+NOW.N,ServiceNow Inc,114.74,0.95,75.39,75.73,12.01
+VIG.P,Vanguard Dividend Appreciation Index Fund,111.15,0.82,,,
+IJR.P,iShares Core S&P Small-Cap ETF,109.0,1.03,,,
+SO.N,Southern Co,108.75,0.33,85.12,62.31,13.41
+HWM.N,Howmet Aerospace Inc,108.54,1.2,83.53,71.71,22.03
+MDT.N,Medtronic PLC,106.97,0.58,46.07,69.73,14.06
+VO.P,Vanguard Mid-Cap Index Fund,106.74,1.0,,,
+BN.N,Brookfield Corp,106.29,1.55,67.39,61.09,8.85
+TT.N,Trane Technologies PLC,106.08,1.19,57.55,71.49,31.58
+CDNS.OQ,Cadence Design Systems Inc,104.24,1.14,92.11,86.71,39.55
+BNY.N,Bank of New York Mellon Corp,103.83,1.06,94.41,84.98,10.87
+EQIX.OQ,Equinix Inc,102.52,0.97,68.73,71.2,8.11
+PNC.N,PNC Financial Services Group Inc,101.54,0.9,54.36,65.29,11.08
+GD.N,General Dynamics Corp,100.81,0.34,73.85,62.12,17.77
+ADP.OQ,Automatic Data Processing Inc,100.35,0.83,68.61,63.53,77.05
+NEM.N,Newmont Corporation,99.39,0.48,98.88,87.03,13.47
+SCHD.P,Schwab US Dividend Equity ETF,99.08,0.7,,,
+HOOD.OQ,Robinhood Markets Inc,98.93,2.33,52.37,51.6,-14.02
+DUK.N,Duke Energy Corp,98.9,0.37,57.94,63.24,9.28
+QQQM.OQ,Invesco NASDAQ 100 ETF,98.69,1.23,,,
+SPOT.N,Spotify Technology SA,98.66,1.58,40.98,53.56,2.23
+SGOV.N,iShares 0-3 Month Treasury Bond ETF,97.93,0.0,,,
+PWR.N,Quanta Services Inc,97.04,1.22,90.54,76.52,18.3
+USB.N,US Bancorp,96.77,0.98,58.02,61.07,14.01
+RSP.P,Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight ETF,96.21,0.92,,,
+UPS.N,United Parcel Service Inc,95.96,1.04,68.86,66.14,50.75
+MAR.OQ,Marriott International Inc,95.68,1.1,77.7,73.0,-27.81
+NET.N,Cloudflare Inc,95.67,1.66,49.08,52.01,17.2
+MCK.N,McKesson Corp,95.1,0.31,76.81,57.46,-212.35
+WM.N,Waste Management Inc,95.06,0.44,83.27,79.6,33.48
+MNST.OQ,Monster Beverage Corp,94.94,0.53,48.28,36.51,20.06
+MELI.OQ,MercadoLibre Inc,94.67,1.34,23.61,46.77,34.86
+ITOT.P,iShares Core S&P Total US Stock Market ETF,94.45,1.02,,,
+SNOW.N,Snowflake Inc,93.11,1.35,15.08,26.48,8.35
+DDOG.OQ,Datadog Inc,92.64,1.54,16.84,30.28,23.93
+CEG.OQ,Constellation Energy Corp,92.49,1.12,22.67,49.46,11.83
+ELV.N,Elevance Health Inc,92.33,0.68,63.75,77.01,18.33
+CSX.OQ,CSX Corp,92.24,1.21,84.17,70.69,27.24
+CMI.N,Cummins Inc,91.68,1.23,86.23,64.5,26.91
+ADBE.OQ,Adobe Inc,91.67,1.42,60.83,67.42,56.18
+WMB.N,Williams Companies Inc,91.06,0.6,67.67,71.2,19.59
+CME.OQ,CME Group Inc,88.81,0.27,74.86,64.17,12.39
+VLO.N,Valero Energy Corp,87.83,0.56,65.28,66.14,23.93
+JCI.N,Johnson Controls International PLC,87.81,1.32,35.97,75.49,14.75
+MRSH.N,Marsh & McLennan Companies Inc,87.46,0.6,66.52,54.78,32.05
+KKR.N,KKR & Co Inc,87.01,1.79,15.0,41.32,19.48
+ABNB.OQ,Airbnb Inc,86.85,1.15,26.3,40.99,32.34
+HCA.N,HCA Healthcare Inc,86.68,1.11,70.69,68.8,-229.84
+MPC.N,Marathon Petroleum Corp,86.67,0.53,59.86,75.57,23.28
+MCO.N,Moody's Corp,86.6,1.33,85.26,74.38,69.22
+FCX.N,Freeport-McMoRan Inc,86.21,1.36,82.3,83.45,19.19
+CMCSA.OQ,Comcast Corp,85.63,0.65,47.79,55.97,17.46
+ACN.N,Accenture PLC,84.77,1.11,78.2,77.63,29.2
+NTES.OQ,NetEase Inc,83.91,0.74,83.8,77.54,121.16
+SNPS.OQ,Synopsys Inc,83.07,1.22,73.66,70.73,22.09
+IWM.P,iShares Russell 2000 ETF,82.89,1.12,,,
+EPD.N,Enterprise Products Partners L.P,82.88,0.48,5.88,29.71,19.91
+DASH.OQ,DoorDash Inc,82.6,1.78,39.03,43.08,-4.93
+MMM.N,3M Co,82.25,1.01,85.17,84.22,73.65
+BNDX.OQ,Vanguard Total International Bond Index Fund,82.17,0.22,,,
+IWD.P,iShares Trust - iShares Russell 1000 Value ETF,81.7,0.85,,,
+SHW.N,Sherwin-Williams Co,81.14,1.1,60.17,61.47,75.35
+VYM.P,Vanguard High Dividend Yield Index Fund,80.6,0.74,,,
+CI.N,Cigna Group,80.55,0.31,57.92,72.25,16.81
+VB.P,Vanguard Small-Cap Index Fund,79.85,1.05,,,
+PSX.N,Phillips 66,79.5,0.7,36.7,62.72,17.92
+INTU.OQ,Intuit Inc,79.26,0.98,67.61,73.43,26.95
+AMT.N,American Tower Corp,78.97,0.9,87.97,79.29,55.48
+AON.N,Aon PLC,78.46,0.7,52.04,55.28,-1650.63
+ITW.N,Illinois Tool Works Inc,78.11,1.01,63.74,62.36,90.3
+ICE.N,Intercontinental Exchange Inc,77.85,0.95,78.55,62.24,13.47
+RCL.N,Royal Caribbean Cruises Ltd,77.4,1.78,50.0,69.26,7.97
+AEP.OQ,American Electric Power Company Inc,76.99,0.5,38.7,54.91,11.18
+NOC.N,Northrop Grumman Corp,76.96,-0.1,79.49,68.97,26.4
+MDLZ.OQ,Mondelez International Inc,76.84,0.41,62.44,77.58,14.99
+ECL.N,Ecolab Inc,76.51,0.89,79.73,83.98,20.61
+EFA.P,iShares MSCI EAFE ETF,76.44,0.78,,,
+BAM.N,BROOKFIELD ASSET MANAGEMENT LTD,76.39,1.27,45.0,49.12,20.71
+EMR.N,Emerson Electric Co,75.83,1.24,72.2,81.32,20.07
+FDX.N,FedEx Corp,74.86,1.31,54.03,63.02,
+CL.N,Colgate-Palmolive Co,74.59,0.32,63.6,77.12,1783.05
+EOG.N,EOG Resources Inc,74.36,0.27,84.98,56.48,25.24
+IVW.P,iShares S&P 500 Growth ETF,74.33,1.18,,,
+NSC.N,Norfolk Southern Corp,73.57,1.27,77.31,66.74,20.72
+CTAS.OQ,Cintas Corp,73.53,0.93,65.22,68.04,19.48
+HLT.N,Hilton Worldwide Holdings Inc,73.41,1.05,90.6,81.58,-72.43
+TRV.N,Travelers Companies Inc,72.62,0.48,73.49,63.33,15.44
+ORLY.OQ,O'Reilly Automotive Inc,72.33,0.51,66.95,43.79,-127.65
+SCHX.P,Schwab US Large-Cap ETF,72.27,1.01,,,
+KMI.N,Kinder Morgan Inc,71.73,0.54,76.54,81.62,8.56
+CVNA.N,Carvana Co,71.28,3.46,28.33,21.01,82.05
+SPG.N,Simon Property Group Inc,71.18,1.33,47.68,55.14,69.19
+SLB.N,SLB NV,70.81,0.75,50.0,74.84,19.42
+HON.OQ,Honeywell International Inc,70.41,0.86,49.11,69.74,64.04
+ROST.OQ,Ross Stores Inc,70.4,0.88,50.82,55.29,38.86
+NXPI.OQ,NXP Semiconductors NV,70.29,1.81,90.91,87.09,40.12
+SMH.OQ,VanEck Semiconductor ETF,70.09,1.72,,,
+REGN.OQ,Regeneron Pharmaceuticals Inc,69.52,0.23,46.41,68.36,23.33
+ET.N,Energy Transfer LP,69.49,0.55,30.37,30.96,14.08
+MSI.N,Motorola Solutions Inc,69.4,0.88,85.27,76.98,-279.28
+GM.N,General Motors Co,69.18,1.32,58.68,64.57,15.79
+TDG.N,TransDigm Group Inc,69.08,0.91,40.7,40.58,-41.39
+RSG.N,Republic Services Inc,68.73,0.4,75.26,75.92,17.19
+CRH.N,CRH PLC,68.63,,66.77,85.7,6.26
+APO.N,Apollo Global Management Inc,68.51,1.51,46.17,61.14,37.59
+URI.N,United Rentals Inc,67.99,1.8,69.04,75.45,33.13
+WBD.OQ,Warner Bros Discovery Inc,67.92,1.56,73.5,70.41,4.7
+AJG.N,Arthur J. Gallagher & Co.,67.82,0.51,70.27,57.69,16.05
+SE.N,Sea Ltd,67.78,1.55,31.73,31.22,-7.01
+HONA.OQ,Honeywell Aerospace Inc,67.51,,,,
+APD.N,Air Products and Chemicals Inc,67.24,0.74,73.49,77.21,17.64
+VCIT.OQ,Vanguard Intermediate Term Corporate Bond Etf,67.02,0.33,,,
+VEU.P,Vanguard FTSE All World ex US Index Fund Investor Shares,66.83,0.77,,,
+BE.N,Bloom Energy Corp,66.41,3.77,32.91,43.79,48.37
+BSX.N,Boston Scientific Corp,66.37,0.57,66.34,78.5,16.75
+NU.N,Nu Holdings Ltd.,66.03,0.95,46.18,42.58,17.82
+ALL.N,Allstate Corp,66.02,0.17,81.4,71.19,16.49
+GWW.N,WW Grainger Inc,65.71,1.04,84.96,77.34,57.8
+SCHF.P,Schwab International Equity ETF,65.5,0.83,,,
+PCAR.OQ,Paccar Inc,65.4,0.98,59.13,57.78,20.46
+NKE.N,Nike Inc,64.8,1.12,50.83,70.9,30.49
+TFC.N,Truist Financial Corp,64.72,0.88,80.15,75.47,9.9
+DLR.N,Digital Realty Trust Inc,63.64,1.05,79.78,67.91,4.13
+MPWR.OQ,Monolithic Power Systems Inc,63.45,1.7,58.86,57.44,30.58
+CIEN.N,Ciena Corp,63.05,1.28,57.39,66.82,14.12
+AFL.N,Aflac Inc,62.76,0.6,52.59,47.66,14.11
+HPE.N,Hewlett Packard Enterprise Co,62.56,1.44,92.56,71.91,12.73
+D.N,Dominion Energy Inc,62.27,0.64,91.45,69.62,10.7
+ALAB.OQ,Astera Labs Inc,62.06,,13.69,6.71,9.23
+SRE.N,Sempra,61.72,0.57,71.82,74.43,8.29
+TGT.N,Target Corp,61.21,0.97,71.43,82.85,29.57
+FIX.N,Comfort Systems USA Inc,60.97,1.67,94.33,56.68,31.07
+CCZ.N,Comcast Holdings Corp,60.76,0.05,,,
+COHR.N,Coherent Corp,60.14,2.05,48.08,57.81,10.66
+SCHG.P,Schwab US Large-Cap Growth ETF,60.09,1.2,,,
+TRGP.N,Targa Resources Corp,59.97,0.71,96.36,63.14,43.17
+MET.N,MetLife Inc,59.86,0.78,71.54,71.41,17.17
+O.N,Realty Income Corp,59.84,0.72,86.22,84.86,3.04
+LITE.OQ,Lumentum Holdings Inc,59.76,1.5,78.65,84.25,16.33
+COR.N,Cencora Inc,59.56,0.58,40.4,52.95,471.61
+IAU.P,Ishares Gold Trust,59.49,0.18,,,
+OKE.N,ONEOK Inc,58.08,0.72,89.17,79.36,21.46
+MPLX.N,MPLX LP,58.05,0.46,15.11,56.99,31.45
+TEL.N,TE Connectivity PLC,57.85,1.16,36.45,67.41,20.59
+IXUS.OQ,iShares Core MSCI Total International Stock ETF,57.72,0.78,,,
+CTVA.N,Corteva Inc,57.57,0.56,58.12,57.86,7.69
+BKR.OQ,Baker Hughes Co,57.2,0.97,75.81,80.78,10.32
+CARR.N,Carrier Global Corp,56.99,1.3,48.58,58.61,22.59
+IWR.P,iShares Russell Mid-Cap ETF,56.77,1.01,,,
+DAL.N,Delta Air Lines Inc,56.68,1.3,42.21,44.7,30.73
+PSA.N,Public Storage,56.51,0.98,68.05,72.39,34.53
+F.N,Ford Motor Co,55.19,1.83,44.03,72.6,15.79
+LNG.N,Cheniere Energy Inc,55.17,-0.0,71.43,70.04,-97.02
+KEYS.N,Keysight Technologies Inc,54.83,1.21,58.43,74.38,27.81
+CAH.N,"Cardinal Health, Inc",54.72,0.49,60.23,64.43,-6.62
+OXY.N,Occidental Petroleum Corp,54.52,0.17,93.81,79.4,22.45
+XLF.P,Select Sector SPDR Trust - Financial Select Sector SPDR Fund,54.4,0.87,,,
+FAST.OQ,Fastenal Co,54.02,0.71,81.61,45.12,16.81
+FANG.OQ,Diamondback Energy Inc,53.9,0.41,66.5,51.4,19.05
+LHX.N,"L3harris Technologies, Inc",53.78,0.51,79.05,64.87,12.24
+NBIS.OQ,Nebius Group NV,53.45,,19.78,46.05,-1.66
+TER.OQ,Teradyne Inc,53.4,1.77,73.9,59.28,26.2
+VST.N,Vistra Corp,53.32,1.41,94.53,68.37,33.1
+MDLN.OQ,Medline Inc,53.31,,,,
+AME.N,AMETEK Inc,53.2,0.99,61.22,60.62,17.39
+NUE.N,Nucor Corp,53.06,1.92,42.94,53.56,25.38
+EW.N,Edwards Lifesciences Corp,52.85,0.85,72.82,70.07,21.28
+VV.P,Vanguard Large-Cap Index Fund,52.71,1.02,,,
+ETR.N,Entergy Corp,52.58,0.49,70.49,54.02,7.68
+SPYG.P,SPDR Portfolio S&P 500 Growth ETF,52.26,1.18,,,
+FITB.N,Fifth Third Bancorp,51.82,,77.12,66.07,13.2
+EA.OQ,Electronic Arts Inc,51.74,0.64,76.82,70.61,25.85
+ROK.N,Rockwell Automation Inc,51.24,1.54,44.11,53.71,38.65
+EBAY.OQ,eBay Inc,51.1,1.37,78.15,68.54,40.51
+NDAQ.OQ,Nasdaq Inc,50.45,0.98,85.85,80.03,15.99
+DVN.N,Devon Energy Corp,50.44,0.45,68.94,59.52,33.07
+AZO.N,Autozone Inc,50.27,0.33,45.96,55.62,-66.1
+XEL.OQ,Xcel Energy Inc,50.24,0.4,81.33,67.37,10.8
+STT.N,State Street Corp,49.31,1.43,70.27,76.29,9.31
+IVE.P,iShares Trust - iShares S&P 500 Value ETF,48.8,0.83,,,
+HUM.N,Humana Inc,48.74,0.72,70.51,66.5,16.05
+IWB.P,iShares Russell 1000 ETF,48.44,1.01,,,
+ODFL.OQ,Old Dominion Freight Line Inc,48.44,1.18,39.98,37.24,22.87
+EXC.OQ,Exelon Corp,48.18,0.3,83.21,70.0,10.26
+DFAC.P,Dimensional U S Core Equity 2 ETF,47.63,0.99,,,
+FLEX.OQ,Flex Ltd,47.45,1.66,90.99,78.39,21.66
+CMG.N,Chipotle Mexican Grill Inc,46.99,0.95,51.43,71.38,27.02
+GRMN.N,Garmin Ltd,46.98,0.91,61.32,60.57,18.21
+CCEP.OQ,Coca-Cola Europacific Partners PLC,46.98,0.49,77.04,77.74,
+IEF.OQ,iShares 7-10 Year Treasury Bond ETF,46.9,0.25,,,
+XYZ.N,Block Inc,46.85,2.54,31.39,40.48,7.37
+BIL.P,SPDR Bloomberg 1-3 Month T-Bill ETF,46.78,0.0,,,
+AMP.N,Ameriprise Financial Inc,46.59,1.16,85.34,76.09,60.67
+CBRS.OQ,Cerebras Systems Inc,46.35,,,,
+QUAL.Z,iShares MSCI USA Quality Factor ETF,46.23,1.02,,,
+RKLB.OQ,Rocket Lab Corp,45.9,2.59,28.15,14.74,-22.64
+DIA.P,SPDR Dow Jones Industrial Average ETF Trust,45.81,0.86,,,
+VTEB.P,Vanguard Tax-Exempt Bond Index Fund,45.75,0.25,,,
+MCHP.OQ,Microchip Technology Inc,45.74,1.74,45.4,58.94,31.99
+MUB.P,iShares National Muni Bond ETF,45.67,0.24,,,
+IBIT.OQ,iShares Bitcoin Trust ETF,45.66,,,,
+CRWV.OQ,CoreWeave Inc,45.45,,,,-5.16
+TTWO.OQ,Take-Two Interactive Software Inc,45.32,0.97,41.2,52.81,13.54
+FERG.N,Ferguson Enterprises Inc,45.22,1.12,59.53,62.03,
+JEPI.P,JPMorgan Equity Premium Income ETF,45.18,0.54,,,
+MSCI.N,MSCI Inc,45.15,1.23,46.04,55.84,-113.3
+ADSK.OQ,Autodesk Inc,44.78,1.3,90.35,78.42,110.17
+VTR.N,Ventas Inc,44.76,0.72,69.23,77.18,0.65
+SOXX.OQ,iShares Trust - iShares Semiconductor ETF,44.68,1.79,,,
+YUM.N,Yum! Brands Inc,44.56,0.55,59.08,79.4,-18.32
+IDXX.OQ,IDEXX Laboratories Inc,44.51,1.54,55.51,69.0,81.05
+BSV.P,Vanguard Short-Term Bond Index Fund,44.38,0.09,,,
+WAB.N,Westinghouse Air Brake Technologies Corp,44.26,0.94,63.2,67.32,11.18
+CRDO.OQ,Credo Technology Group Holding Ltd,44.17,3.22,79.06,46.07,14.1
+AXON.OQ,Axon Enterprise Inc,44.09,1.38,67.6,52.34,18.09
+VONG.OQ,Vanguard Russell 1000 Growth ETF,43.99,1.16,,,
+VIK.N,Viking Holdings Ltd(Pembroke),43.81,,49.55,22.93,11.57
+GOVT.Z,iShares US Treasury Bond ETF,43.47,0.19,,,
+SCHB.P,Schwab US Broad Market ETF,43.32,1.03,,,
+IUSB.OQ,iShares Core Total USD Bond Market ETF,42.68,0.26,,,
+LYV.N,Live Nation Entertainment Inc,42.64,1.12,57.2,42.78,329.05
+KDP.OQ,Keurig Dr Pepper Inc,42.52,0.41,45.5,55.5,10.03
+BDX.N,Becton Dickinson and Co,42.39,0.21,84.0,87.3,14.29
+AIG.N,American International Group Inc,42.36,0.54,82.53,71.93,8.42
+DHI.N,D.R. Horton Inc,42.21,1.36,52.11,43.75,21.53
+DGRO.P,iShares Core Dividend Growth ETF,42.13,0.78,,,
+TLT.OQ,iShares Trust - iShares 20+ Year Treasury Bond ETF,42.06,0.51,,,
+PYPL.OQ,Paypal Holdings Inc,42.03,1.33,86.26,78.9,24.45
+VGIT.OQ,Vanguard Intermediate Term Treasury ETF,42.01,0.16,,,
+XLV.P,Health Care Select Sector SPDR Fund,41.65,0.57,,,
+COIN.OQ,Coinbase Global Inc,41.46,3.36,26.93,30.75,1.58
+ED.N,Consolidated Edison Inc,41.21,0.26,66.51,53.86,8.4
+CBRE.N,CBRE Group Inc,40.42,1.2,74.17,76.33,20.34
+AU.N,Anglogold Ashanti PLC,40.33,0.67,97.13,87.86,17.31
+PRU.N,Prudential Financial Inc,40.31,0.84,45.32,61.07,13.73
+PEG.N,Public Service Enterprise Group Inc,40.31,0.52,84.77,70.44,12.01
+HEI.N,HEICO Corp,40.05,1.04,39.39,25.76,15.24
+SYY.N,Sysco Corp,39.91,0.65,83.29,64.2,109.65
+JPST.P,JPMorgan Ultra-Short Income ETF,39.87,0.01,,,
+JEPQ.OQ,JPMorgan Nasdaq Equity Premium Income ETF,39.76,0.83,,,
+ARES.N,Ares Management Corp,39.73,1.53,17.32,42.69,58.27
+SPDW.P,SPDR Portfolio Developed World ex-US ETF,39.71,0.84,,,
+ADM.N,Archer-Daniels-Midland Co,39.54,0.61,83.07,74.13,12.07
+RBLX.N,Roblox Corp,39.4,1.43,16.16,18.71,-410.07
+PAYX.OQ,Paychex Inc,39.38,0.81,59.36,58.91,46.51
+RKT.N,Rocket Companies Inc,39.36,2.18,6.82,16.77,98.96
+UAL.OQ,United Airlines Holdings Inc,39.32,1.28,80.39,53.64,10.55
+RVMD.OQ,Revolution Medicines Inc,39.11,1.39,32.63,22.33,-50.95
+NTRA.OQ,Natera Inc,39.08,1.51,23.7,41.48,-67.34
+MBB.OQ,iShares MBS ETF,39.08,0.27,,,
+VNQ.P,Vanguard Real Estate Index Fund,38.83,0.99,,,
+RDDT.N,Reddit Inc,38.68,,57.0,34.67,5.9
+HIG.N,Hartford Insurance Group Inc,38.59,0.47,88.87,75.75,18.05
+BIDU.OQ,Baidu Inc,38.59,0.58,51.56,67.87,73.96
+ALNY.OQ,Alnylam Pharmaceuticals Inc,38.46,0.27,52.64,52.64,393.11
+PCG.N,PG&E Corp,38.25,0.28,45.73,70.74,10.57
+VMC.N,Vulcan Materials Co,37.99,1.05,20.83,49.04,11.83
+A.N,Agilent Technologies Inc,37.86,1.25,60.26,77.88,26.74
+WEC.N,WEC Energy Group Inc,37.74,0.46,53.85,63.55,12.51
+XLE.P,Energy Select Sector SPDR Fund,37.53,0.45,,,
+KVUE.N,Kenvue Inc,36.92,,86.39,75.23,12.66
+VBR.P,Vanguard Small Cap Value ETF,36.74,0.97,,,
+WAT.N,Waters Corp,36.64,1.19,78.76,76.09,96.72
+CGDV.P,Capital Group Dividend Value ETF,36.64,0.9,,,
+KMB.OQ,Kimberly-Clark Corp,36.57,0.28,90.92,74.95,258.95
+CCL.N,Carnival Corporation Ltd,36.45,2.34,87.31,85.05,-6.39
+IRM.N,Iron Mountain Inc,36.41,1.22,81.68,77.66,36.96
+ROP.OQ,Roper Technologies Inc,36.39,0.74,75.75,61.61,11.23
+HBAN.OQ,Huntington Bancshares Inc,36.35,0.96,75.77,69.44,11.4
+KR.N,Kroger Co,36.34,0.43,79.19,75.49,31.18
+ACGL.OQ,Arch Capital Group Ltd,36.01,0.31,66.94,61.79,16.44
+SPYV.P,SPDR Portfolio S&P 500 Value ETF,35.97,0.83,,,
+WDAY.OQ,Workday Inc,35.78,1.09,27.8,51.78,23.95
+HSY.N,Hershey Co,35.55,0.1,57.6,84.12,47.53
+MTB.N,M&T Bank Corp,35.52,0.58,80.61,79.94,10.8
+LQD.P,iShares Trust- iShares iBoxx Investment Grade Corporate Bond ETF,35.26,0.43,,,
+ON.OQ,ON Semiconductor Corp,35.17,2.02,42.45,56.49,27.04
+GFS.OQ,GlobalFoundries Inc,35.08,1.77,61.24,76.65,9.09
+TQQQ.OQ,ProShares UltraPro QQQ,34.93,3.7,,,
+CCI.N,Crown Castle Inc,34.85,0.97,35.05,56.87,1.9
+IQV.N,IQVIA Holdings Inc,34.64,1.2,64.45,60.54,31.56
+TKO.N,TKO Group Holdings Inc,34.59,0.62,1.39,15.4,27.53
+MLM.N,Martin Marietta Materials Inc,34.19,1.1,94.59,42.39,12.19
+NTRS.OQ,Northern Trust Corp,34.07,1.26,56.31,67.04,12.99
+EME.N,EMCOR Group Inc,33.99,1.13,78.13,53.06,28.45
+STLD.OQ,Steel Dynamics Inc,33.77,1.54,87.89,63.16,32.07
+JBL.N,Jabil Inc,33.74,1.28,52.96,68.91,54.69
+CNC.N,Centene Corp,33.72,1.08,80.21,75.7,11.41
+XLI.P,Industrial Select Sector SPDR Fund,33.43,0.99,,,
+VG.N,Venture Global Inc,33.19,,,,7.16
+TWLO.N,Twilio Inc,33.12,1.37,32.15,45.34,4.48
+ACWI.OQ,iShares MSCI ACWI ETF,33.0,0.92,,,
+MSTR.OQ,Strategy Inc,32.98,3.56,2.62,14.12,-24.58
+MGK.P,Vanguard Mega Cap Growth Index Fund,32.94,1.24,,,
+UI.N,Ubiquiti Inc,32.72,1.32,59.28,32.65,-172.29
+RJF.N,Raymond James Financial Inc,32.54,0.94,50.95,51.52,18.03
+RPRX.OQ,Royalty Pharma PLC,32.51,0.43,47.01,41.13,37.37
+CPNG.N,Coupang Inc,32.17,1.12,43.89,24.25,-4.46
+NTAP.OQ,NetApp Inc,32.12,1.45,88.55,62.96,139.43
+VEEV.N,Veeva Systems Inc,31.97,0.93,38.44,38.2,19.73
+IUSG.OQ,iShares Core S&P US Growth ETF,31.89,1.17,,,
+EXPE.OQ,Expedia Group Inc,31.88,1.23,54.63,52.26,128.26
+CASY.OQ,Caseys General Stores Inc,31.79,0.62,91.11,57.59,17.06
+ZTS.N,Zoetis Inc,31.61,0.74,34.31,56.56,54.35
+AEE.N,Ameren Corp,31.39,0.48,65.21,44.23,10.71
+DTE.N,DTE Energy Co,31.34,0.39,50.82,55.1,12.11
+EQT.N,EQT Corp,31.1,0.57,64.62,44.14,8.51
+CQP.N,Cheniere Energy Partners LP,31.06,0.3,11.22,46.7,4.89
+BAP.N,Credicorp Ltd,30.89,0.85,65.58,72.31,16.81
+BIIB.OQ,Biogen Inc,30.86,0.17,85.0,83.61,17.2
+IDEV.P,iShares Core MSCI International Developed Mkt ETF,30.84,0.8,,,
+VXF.P,Vanguard Extended Markets Index Fund,30.78,1.13,,,
+IR.N,Ingersoll Rand Inc,30.74,1.17,43.26,55.39,11.92
+EXR.N,Extra Space Storage Inc (Maryland),30.7,1.2,74.79,76.67,15.54
+LVS.N,Las Vegas Sands Corp,30.42,0.85,56.66,67.74,37.63
+SUNB.N,Sunbelt Rentals Holdings Inc,30.25,,94.92,80.94,
+ATO.N,Atmos Energy Corp,29.96,0.6,71.7,30.94,9.14
+KHC.OQ,Kraft Heinz Co,29.92,0.08,66.79,63.2,7.17
+VGK.P,Vanguard European Stock Index Fund,29.78,0.86,,,
+CFG.N,Citizens Financial Group Inc,29.75,1.01,86.79,65.85,7.94
+VGSH.OQ,Vanguard Short Term Treasury ETF,29.75,0.05,,,
+GEHC.OQ,GE Healthcare Technologies Inc,29.71,0.83,80.67,72.73,14.04
+FICO.N,Fair Isaac Corp,29.64,1.29,64.45,48.12,-78.84
+Q.N,Qnity Electronics Inc,29.51,,,,
+DXCM.OQ,Dexcom Inc,29.46,1.42,80.95,72.4,23.28
+NRG.N,NRG Energy Inc,29.43,1.2,76.76,52.96,46.43
+HAL.N,Halliburton Co,29.41,0.74,68.48,80.91,24.14
+EL.N,Estee Lauder Companies Inc,29.36,1.26,31.76,67.17,23.31
+EIX.N,Edison International,29.23,0.66,90.66,76.19,13.87
+AVUV.P,Avantis US Small Cap Value ETF,29.22,1.01,,,
+JAAA.P,Janus Henderson AAA CLO ETF,29.18,0.03,,,
+FTI.N,TechnipFMC PLC,29.12,0.72,71.69,67.97,13.26
+BIV.P,Vanguard Intermediate Term Bond ETF,29.07,0.26,,,
+CBOE.Z,Cboe Global Markets Inc,29.0,0.44,85.86,68.62,21.98
+TDY.N,Teledyne Technologies Inc,28.9,0.92,48.03,39.25,10.4
+CNP.N,CenterPoint Energy Inc,28.87,0.45,51.9,44.35,10.33
+DOV.N,Dover Corp,28.85,1.15,89.37,63.29,23.28
+VICI.N,VICI Properties Inc,28.85,0.68,92.54,76.47,10.71
+USHY.Z,iShares Broad USD High Yield Corporate Bond ETF,28.85,0.39,,,
+XYL.N,Xylem Inc,28.81,1.02,94.62,73.28,13.28
+RMD.N,Resmed Inc,28.79,0.77,43.0,67.78,25.47
+ILMN.OQ,Illumina Inc,28.75,1.47,63.61,77.01,14.6
+EEM.P,iShares MSCI Emerging Markets ETF,28.56,0.74,,,
+MTZ.N,MasTec Inc,28.46,1.78,36.5,41.63,12.18
+CINF.OQ,Cincinnati Financial Corp,28.26,0.55,33.36,35.75,8.08
+TPL.N,Texas Pacific Land Corp (Dover),28.21,0.6,79.83,51.43,5.28
+OTIS.N,Otis Worldwide Corp,28.17,0.88,90.47,68.05,-28.71
+CRS.N,Carpenter Technology Corp,28.16,1.23,32.74,46.46,10.9
+ES.N,Eversource Energy,28.15,0.71,71.16,74.41,10.48
+FE.N,FirstEnergy Corp,28.01,0.45,57.16,61.13,13.62
+WTW.OQ,Willis Towers Watson PLC,27.91,0.45,75.6,64.3,16.37
+AVB.N,AvalonBay Communities Inc,27.6,0.77,81.59,73.56,8.21
+SLV.P,ishares Silver Trust,27.58,0.5,,,
+TPR.N,Tapestry Inc,27.5,1.45,69.34,76.86,66.26
+WRB.N,W. R. Berkley Corp,27.49,0.3,55.17,48.86,15.33
+AFRM.OQ,Affirm Holdings Inc,27.44,3.7,16.19,29.61,-16.57
+MDY.P,SPDR S&P MidCap 400 ETF Trust,27.36,1.01,,,
+CW.N,Curtiss-Wright Corp,27.34,0.87,28.13,28.7,16.9
+FISV.OQ,Fiserv Inc,27.29,0.81,80.83,58.25,15.22
+DG.N,Dollar General Corp,27.23,0.24,72.13,65.47,26.8
+MDB.OQ,MongoDB Inc,27.18,1.55,49.01,54.1,12.11
+AMRZ.N,Amrize AG,27.18,,56.38,24.22,1.81
+PPL.N,PPL Corp,27.14,0.59,94.95,61.69,8.21
+IUSV.OQ,iShares Core S&P US Value ETF,27.07,0.84,,,
+GLDM.P,SPDR Gold MiniShares Trust,27.04,0.18,,,
+ZM.OQ,Zoom Communications Inc,26.94,1.01,29.41,48.03,21.68
+ECHO.OQ,EchoStar Corp,26.92,1.03,4.46,4.76,4.2
+FBND.P,Fidelity Total Bond ETF,26.79,0.27,,,
+MTUM.Z,iShares MSCI USA Momentum Factor ETF,26.74,1.08,,,
+JBHT.OQ,J B Hunt Transport Services Inc,26.69,1.3,74.67,66.44,19.87
+EFV.Z,iShares MSCI EAFE Value ETF,26.62,0.62,,,
+MRNA.OQ,Moderna Inc,26.59,0.89,86.72,67.5,5.59
+RF.N,Regions Financial Corp,26.51,1.02,78.2,70.26,12.92
+FNDX.P,Schwab Fundamental US Large Company ETF,26.31,0.88,,,
+MTD.N,Mettler-toledo International Inc,26.26,1.24,86.09,72.95,-2283.87
+ASTS.OQ,AST SpaceMobile Inc,26.23,2.73,3.61,6.73,-79.77
+QSR.N,Restaurant Brands International Inc,26.22,0.52,53.06,62.35,40.84
+VOOG.P,Vanguard S&P 500 Growth Index Fund,26.14,1.18,,,
+EQR.N,Equity Residential,26.12,0.75,43.65,67.81,9.42
+TSEM.OQ,Tower Semiconductor Ltd,25.91,0.89,74.36,39.85,11.16
+AWK.N,American Water Works Co Inc,25.69,0.59,84.68,75.52,10.22
+LPLA.OQ,LPL Financial Holdings Inc,25.68,0.5,57.38,63.81,44.16
+SHY.OQ,iShares 1-3 Year Treasury Bond ETF,25.6,0.05,,,
+SYM.OQ,Symbotic Inc,25.57,1.95,28.52,10.34,-5.17
+NVT.N,nVent Electric PLC,25.56,1.36,31.02,43.57,15.15
+WSM.N,Williams-Sonoma Inc,25.51,1.49,85.26,77.58,45.58
+WST.N,West Pharmaceutical Services Inc,25.41,1.15,91.61,74.95,22.28
+CPRT.OQ,Copart Inc,25.41,1.01,56.81,50.92,14.59
+VRSK.OQ,Verisk Analytics Inc,25.38,0.67,63.6,70.88,103.8
+PPG.N,PPG Industries Inc,25.37,1.05,90.31,80.9,23.21
+HUBB.N,Hubbell Inc,25.21,0.89,84.58,76.65,26.69
+AVEM.P,Avantis Emerging Markets Equity ETF,25.2,0.74,,,
+KEY.N,KeyCorp,25.18,1.03,74.34,70.72,11.5
+ATI.N,ATI Inc,25.08,0.97,58.48,61.15,23.09
+RIVN.OQ,Rivian Automotive Inc,25.05,1.6,32.67,26.89,-42.79
+P.N,Everpure Inc,25.05,1.45,41.69,55.34,44.95
+ROIV.OQ,Roivant Sciences Ltd,24.82,1.12,61.26,29.35,-30.06
+FWONA.OQ,Formula One Group,24.74,0.71,,,1.39
+IYW.P,iShares US Technology ETF,24.65,1.36,,,
+SYF.N,Synchrony Financial,24.63,1.31,78.95,65.53,21.41
+VRSN.OQ,"VeriSign, Inc",24.6,0.71,63.89,50.63,-42.7
+XPO.N,XPO Inc,24.59,1.9,60.52,46.02,30.38
+MKL.N,Markel Group Inc,24.56,0.66,63.85,37.72,7.63
+PFG.OQ,Principal Financial Group Inc,24.54,0.89,49.52,66.5,14.43
+CGGR.P,Capital Group Growth ETF,24.53,1.18,,,
+TEAM.OQ,Atlassian Corp,24.4,1.07,65.49,65.47,100.78
+TROW.OQ,T Rowe Price Group Inc,24.35,1.49,47.71,58.55,22.03
+DLTR.OQ,Dollar Tree Inc,24.29,0.65,76.91,66.47,20.58
+OKTA.OQ,Okta Inc,24.25,0.77,14.08,35.23,4.55
+RDVY.OQ,First Trust Rising Dividend Achievers ETF,24.24,1.01,,,
+FNDF.P,Schwab Fundamental Intl Equity ETF,24.15,0.72,,,
+FCNCA.OQ,First Citizens BancShares Inc (Delaware),24.13,0.62,30.09,22.15,12.94
+EMXC.OQ,iShares MSCI Emerging Markets ex China ETF,24.01,0.9,,,
+L.N,Loews Corp,23.97,0.52,55.5,39.84,
+VBK.P,Vanguard Small-Cap Growth Index Fund,23.85,1.17,,,
+XLU.P,Utilities Select Sector SPDR Fund,23.79,0.59,,,
+MKSI.OQ,MKS Incorporated,23.78,1.96,56.56,59.82,18.53
+FSLR.OQ,First Solar Inc,23.75,1.75,84.46,72.42,10.7
+FFIV.OQ,F5 Inc,23.75,1.02,86.64,71.61,26.42
+INIO.OQ,Innio NV,23.68,,,,
+CPAY.N,Corpay Inc,23.66,0.88,48.63,33.86,39.63
+INSM.OQ,Insmed Inc,23.66,0.8,51.54,72.25,58819.46
+WWD.OQ,Woodward Inc,23.65,0.86,51.17,43.89,13.8
+PHM.N,Pultegroup Inc,23.57,1.19,62.78,56.6,24.09
+DVY.OQ,iShares Select Dividend ETF,23.55,0.68,,,
+VOE.P,Vanguard Mid-Cap Value Index Fund,23.54,0.86,,,
+OMC.N,Omnicom Group Inc,23.53,0.67,68.05,62.53,41.55
+AER.N,AerCap Holdings NV,23.52,0.93,38.21,40.17,14.7
+BRO.N,Brown & Brown Inc,23.46,0.6,53.07,43.43,15.85
+USMV.Z,iShares Trust - iShares MSCI USA Min Vol Factor ETF,23.45,0.65,,,
+LUV.N,Southwest Airlines Co,23.42,1.13,75.14,73.88,5.47
+CMS.N,CMS Energy Corp,23.4,0.34,71.73,58.33,12.64
+SOFI.OQ,SoFi Technologies Inc,23.26,2.17,57.03,32.85,-2.65
+DRAM.Z,Roundhill Memory ETF,23.23,,,,
+CHRW.OQ,CH Robinson Worldwide Inc,23.16,0.92,47.22,45.69,37.09
+XLC.P,Select Sector SPDR Trust - Communication Services Select Sector SPDR Fund,23.08,0.98,,,
+CHD.N,Church & Dwight Co Inc,23.02,0.47,53.99,67.9,18.27
+STZ.N,Constellation Brands Inc,22.97,0.39,37.52,41.85,24.1
+EXPD.N,Expeditors International of Washington Inc,22.95,1.04,59.54,54.73,35.07
+DGX.N,Quest Diagnostics Inc,22.95,0.57,55.13,68.77,17.53
+ZS.OQ,Zscaler Inc,22.93,0.95,16.04,38.76,32.55
+SCHA.P,Schwab US Small-Cap ETF,22.88,1.1,,,
+INCY.OQ,Incyte Corp,22.82,0.77,79.14,60.79,17.22
+VLTO.N,Veralto Corp,22.82,,64.83,77.05,16.09
+IGSB.OQ,iShares 1-5 Year Investment Grade Corporate Bd ETF,22.79,0.12,,,
+BG.N,Bunge Global SA,22.78,0.64,82.64,84.47,17.65
+BNTX.OQ,Biontech SE,22.78,1.27,81.31,86.58,26.53
+UTHR.OQ,United Therapeutics Corp,22.73,0.58,84.43,53.21,16.92
+LH.N,Labcorp Holdings Inc,22.69,0.88,95.95,78.08,16.55
+HPQ.N,HP Inc,22.65,1.22,87.47,77.49,-260.96
+SW.N,Smurfit WestRock PLC,22.63,,22.26,68.48,2.57
+NI.N,NiSource Inc,22.57,0.54,87.53,66.09,10.54
+XLY.P,Consumer Discretionary Select Sector SPDR Fund,22.55,1.22,,,
+DRI.N,Darden Restaurants Inc,22.53,0.59,66.28,59.37,47.17
+MTSI.OQ,MACOM Technology Solutions Holdings Inc,22.45,1.68,23.74,42.89,24.67
+GDX.P,VanEck Gold Miners ETF,22.4,0.65,,,
+USFD.N,US Foods Holding Corp,22.31,0.81,90.41,83.48,14.9
+RL.N,Ralph Lauren Corp,22.29,1.36,50.78,72.63,27.69
+FOXA.OQ,Fox Corp,22.22,0.55,49.28,56.1,16.06
+EWJ.P,"iShares, Inc - iShares MSCI Japan ETF",22.1,0.68,,,
+SOXL.P,Direxion Daily Semiconductor Bull 3X Shares,21.92,5.71,,,
+DOW.N,Dow Inc,21.89,0.44,86.84,84.29,13.11
+FIS.N,Fidelity National Information Services Inc,21.67,0.81,72.63,79.19,14.42
+ROL.N,Rollins Inc,21.63,0.74,21.57,27.13,34.87
+FTAI.OQ,FTAI Aviation Ltd,21.53,1.5,51.0,24.18,190.68
+SPMO.P,Invesco S&P 500 Momentum ETF,21.44,1.11,,,
+TW.OQ,Tradeweb Markets Inc,21.23,0.62,54.38,57.93,9.86
+SN.N,Sharkninja Inc,21.2,,32.08,39.69,18.23
+STE.N,STERIS plc,21.15,0.92,52.55,59.59,13.45
+ROKU.OQ,Roku Inc,21.12,2.01,42.83,31.39,-8.15
+GPN.N,Global Payments Inc,21.02,0.77,54.09,48.58,11.9
+DFUS.P,DFA Dimensional US Equity Market ETF,21.01,1.02,,,
+GH.OQ,Guardant Health Inc,21.0,1.61,34.43,38.09,-44.37
+CTSH.OQ,Cognizant Technology Solutions Corp,20.93,0.84,54.68,66.35,17.56
+EXE.OQ,Expand Energy Corp,20.84,0.33,70.59,61.68,15.11
+SHV.N,Ishares Barclays Short Treasury Bond Fund,20.82,,,,
+ENTG.OQ,Entegris Inc,20.78,1.33,66.21,60.86,17.84
+SNA.N,Snap-On Inc,20.78,0.73,78.97,54.84,19.25
+VONV.OQ,Vanguard Russell 1000 Value ETF,20.63,0.85,,,
+IWP.P,iShares Russell Mid-Cap Growth ETF,20.63,1.12,,,
+BURL.N,Burlington Stores Inc,20.62,1.46,77.45,72.67,46.1
+EFX.N,Equifax Inc,20.55,1.31,66.92,41.07,21.04
+TSN.N,Tyson Foods Inc,20.4,0.39,25.45,38.27,9.43
+ULTA.OQ,Ulta Beauty Inc,20.35,0.88,55.84,58.71,54.23
+IQMM.P,ProShares GENIUS Money Market ETF,20.33,,,,
+FTEC.P,Fidelity MSCI Information Technology Index ETF,20.26,1.34,,,
+STRL.OQ,Sterling Infrastructure Inc,20.25,1.87,62.47,39.96,28.04
+OEF.P,iShares S&P 100 ETF,20.22,1.04,,,
+BSP.OQ,Bending Spoons SpA,20.19,,,,
+PKG.N,Packaging Corp of America,20.12,0.82,73.02,74.93,21.91
+SNX.N,TD Synnex Corp,20.09,1.43,59.19,53.12,14.6
+VYMI.OQ,Vanguard Internatl High Div Yield Index Fund,20.05,0.64,,,
+EVRG.OQ,Evergy Inc,19.93,0.52,81.39,60.03,8.92
+LEN.N,Lennar Corp,19.91,1.39,38.13,33.59,14.56
+SBAC.OQ,SBA Communications Corp,19.84,0.99,58.22,60.91,-12.38
+SPHQ.P,Invesco S&P 500 Quality ETF,19.81,0.91,,,
+LNT.OQ,Alliant Energy Corp,19.79,0.54,40.94,59.64,11.22
+IWV.P,iShares Russell 3000 ETF,19.79,1.02,,,
+AS.N,Amer Sports Inc,19.75,,63.96,53.41,3.55
+RS.N,Reliance Inc,19.67,0.96,86.11,53.22,17.2
+AMCR.N,Amcor PLC,19.62,0.61,43.47,66.34,123.8
+IP.N,International Paper Co,19.59,0.93,49.16,64.38,8.66
+GIS.N,General Mills Inc,19.53,-0.05,54.22,76.13,24.01
+FLUT.N,Flutter Entertainment PLC,19.5,,63.67,66.12,5.42
+WES.N,Western Midstream Partners LP,19.41,0.66,21.84,36.77,38.22
+VOT.P,Vanguard Mid-Cap Growth Index Fund,19.4,1.16,,,
+DKS.N,Dick's Sporting Goods Inc,19.34,1.21,47.17,58.01,38.85
+LII.N,Lennox International Inc,19.18,1.17,47.0,54.08,30.44
+IFF.N,International Flavors & Fragrances Inc,19.17,0.94,75.16,81.84,6.95
+VTIP.OQ,Vanguard Sht-Term Inflation-Protected Sec Idx,19.17,0.09,,,
+ESS.N,Essex Property Trust Inc,19.12,0.71,89.16,78.8,8.77
+VTRS.OQ,Viatris Inc,19.09,0.9,41.55,65.15,18.45
+FTV.N,Fortive Corp,19.0,1.05,71.74,54.12,11.54
+LYB.N,Lyondellbasell Industries N.v,18.82,0.34,69.92,78.42,24.06
+AVDV.P,Avantis International Small Cap Value ETF,18.82,0.78,,,
+CF.N,CF Industries Holdings Inc,18.58,0.4,84.0,60.98,36.25
+RBC.N,RBC Bearings Inc,18.49,1.4,31.07,25.98,9.44
+CDW.OQ,CDW Corp,18.44,0.96,62.25,59.72,78.62
+WBHC.PK,Wilson Bank Holding Co,18.43,,,,
+IGIB.OQ,iShares 5-10 Yr Investment Grade Corporate Bd ETF,18.31,0.32,,,
+IEI.OQ,iShares 3-7 Year Treasury Bond ETF,18.2,0.14,,,
+ZBH.N,"Zimmer Biomet Holdings, Inc",18.2,0.47,68.59,61.37,12.53
+COWZ.Z,Pacer US Cash Cows 100 ETF,18.2,0.82,,,
+AKAM.OQ,Akamai Technologies Inc,18.19,0.63,78.08,69.58,20.81
+VHT.P,Vanguard Health Care Index Fund,18.15,0.6,,,
+SPMD.P,SPDR Portfolio S&P 400 Mid Cap ETF,18.09,1.02,,,
+EWBC.OQ,East West Bancorp Inc,18.0,0.93,87.49,53.86,16.92
+TLN.OQ,Talen Energy Corp,17.99,,55.34,19.72,0.77
+APG.N,APi Group Corp,17.94,1.59,59.12,20.51,14.07
+USFR.P,WisdomTree Floating Rate Treasury Fund,17.91,-0.0,,,
+LSCC.OQ,Lattice Semiconductor Corp,17.91,1.79,60.28,45.52,35.28
+DD.N,Dupont De Nemours Inc,17.91,1.04,64.32,71.41,17.82
+SMCI.OQ,Super Micro Computer Inc,17.89,1.94,32.94,40.4,10.57
+INVH.N,Invitation Homes Inc,17.89,0.84,69.88,55.23,4.66
+ESGU.OQ,iShares ESG Aware MSCI USA ETF,17.86,1.04,,,
+PFGC.N,Performance Food Group Co,17.8,0.92,66.79,57.37,18.65
+MAIR.N,Madison Air Solutions Corp,17.72,,,,
+FDXF.N,FedEx Freight Holding Company Inc,17.7,,,,
+PULS.P,PGIM Ultra Short Bond ETF,17.66,0.01,,,
+ULS.N,UL Solutions Inc,17.64,,,,14.54
+ASND.OQ,Ascendis Pharma A/S,17.55,0.37,34.75,39.55,77.36
+VTWO.OQ,Vanguard Russell 2000 Index Fund,17.55,1.12,,,
+BBJP.Z,JPMorgan BetaBuilders Japan ETF,17.52,0.68,,,
+AVDE.P,Avantis International Equity ETF,17.51,0.78,,,
+NBIX.OQ,"Neurocrine Biosciences, Inc",17.51,0.39,46.88,48.69,12.41
+BR.N,Broadridge Financial Solutions Inc,17.47,0.9,85.01,71.5,39.93
+H.N,Hyatt Hotels Corp,17.39,1.32,20.75,50.42,5.64
+ITT.N,ITT Inc,17.39,1.27,90.4,75.43,17.26
+NVR.N,NVR Inc,17.38,0.9,74.11,33.51,37.54
+ARXS.OQ,Arxis Inc,17.38,,,,
+TOST.N,Toast Inc,17.38,1.74,25.51,46.54,-3.28
+USIG.OQ,iShares Broad USD Investment Grade Corporate Bond,17.31,0.34,,,
+BIP.N,Brookfield Infrastructure Partners LP,17.28,1.04,19.62,37.13,3.96
+RBRK.N,Rubrik Inc,17.26,,,,4.76
+BBY.N,Best Buy Co Inc,17.21,1.33,79.13,77.56,50.17
+SPEM.P,SPDR Portfolio Emerging Markets ETF,17.2,0.61,,,
+BEN.N,Franklin Resources Inc,17.06,1.59,35.05,47.63,12.42
+AVLV.P,Avantis US Large Cap Value ETF,17.05,0.95,,,
+MINT.P,PIMCO Enhanced Short Maturity Active Exch Tr,17.01,0.02,,,
+FN.N,Fabrinet,17.01,1.2,71.75,50.85,19.57
+GPC.N,Genuine Parts Co,17.0,0.64,54.52,49.47,27.8
+KIM.N,Kimco Realty Corp,16.93,0.97,89.78,79.7,5.75
+SPSM.P,SPDR Portfolio S&P 600 Small Cap ETF,16.92,1.02,,,
+WY.N,Weyerhaeuser Co,16.88,0.9,92.07,76.82,10.53
+THC.N,Tenet Healthcare Corp,16.78,1.26,58.85,46.78,58.39
+DGRW.OQ,WisdomTree US Quality Dividend Growth Fund,16.73,0.83,,,
+QNT.OQ,Quantinuum Inc,16.73,,,,
+PAA.OQ,Plains All American Pipeline LP,16.61,0.48,22.25,35.99,12.38
+IWY.P,Ishares Russell Top 200 Growth Index Fund,16.57,1.17,,,
+NLY.N,Annaly Capital Management Inc,16.51,1.24,79.28,58.14,26.69
+EFG.Z,iShares MSCI EAFE Growth ETF,16.48,0.96,,,
+SCHP.P,Schwab Us Tips Etf,16.48,0.27,,,
+PR.N,Permian Resources Corp,16.43,0.48,57.5,31.94,16.42
+RGLD.OQ,Royal Gold Inc,16.42,0.44,86.2,50.1,8.42
+IEX.N,IDEX Corp,16.39,0.97,73.55,56.04,17.46
+SSNC.OQ,SS&C Technologies Holdings Inc,16.39,1.1,33.06,34.85,20.42
+HYG.P,iShares iBoxx $ High Yield Corporate Bond ETF,16.38,0.39,,,
+AMKR.OQ,Amkor Technology Inc,16.37,2.23,36.12,40.58,14.01
+TPG.OQ,TPG Inc,16.33,1.43,11.1,33.4,66.07
+BALL.N,Ball Corp,16.32,0.99,35.19,68.4,20.64
+BBIO.OQ,BridgeBio Pharma Inc,16.27,0.96,28.14,19.73,51.13
+BWXT.N,BWX Technologies Inc,16.23,0.74,43.47,60.77,34.4
+CHTR.OQ,Charter Communications Inc,16.16,0.7,59.54,36.14,35.34
+WPC.N,W.p. Carey Inc,16.16,0.79,83.98,65.59,6.76
+GRAB.OQ,Grab Holdings Ltd,16.11,0.88,44.71,46.5,-3.96
+WCC.N,Wesco International Inc,16.11,1.55,63.41,58.64,15.1
+CDE.N,"Coeur Mining, Inc",16.07,1.32,88.33,74.42,0.71
+CLH.N,Clean Harbors Inc,16.05,0.87,32.89,49.35,16.73
+TIGO.OQ,Millicom International Cellular SA,16.04,0.89,65.19,59.88,14.93
+NDSN.OQ,Nordson Corp,15.97,0.97,28.06,56.4,20.91
+WSO.N,Watsco Inc,15.96,1.01,60.01,31.04,24.27
+LAMR.OQ,Lamar Advertising Co,15.95,1.22,25.98,29.79,42.02
+SITM.OQ,SiTime Corp,15.91,2.91,58.27,50.32,8.01
+CG.OQ,Carlyle Group Inc,15.89,1.83,22.97,41.6,27.04
+TSCO.OQ,Tractor Supply Co,15.86,0.46,88.02,83.32,24.35
+NWSA.OQ,News Corp,15.85,0.9,84.43,68.05,5.86
+MAA.N,Mid-America Apartment Communities Inc,15.82,0.71,80.42,61.49,8.94
+STIP.P,iShares 0-5 Year TIPS Bond ETF,15.8,0.12,,,
+HST.OQ,"Host Hotels and Resorts, Inc",15.8,1.12,83.86,84.18,10.68
+DIDIY.PK,DiDi Global Inc,15.78,0.5,11.02,47.12,0.12
+GEN.OQ,Gen Digital Inc,15.76,1.22,80.82,76.49,-8.01
+DFIV.P,Dimensional International Value ETF,15.71,0.68,,,
+SCHV.P,Schwab US Large-Cap Value ETF,15.7,0.84,,,
+CRCL.N,Circle Internet Group Inc,15.66,,,,3.07
+OVV.N,Ovintiv Inc,15.64,0.56,85.96,63.76,21.62
+IWS.P,iShares Russell Mid-Cap Value ETF,15.63,0.96,,,
+RGA.N,Reinsurance Group of America Inc,15.59,0.48,83.5,57.91,12.7
+TXT.N,Textron Inc,15.55,0.91,76.96,70.14,13.46
+VMBS.OQ,Vanguard Mortgage-Backed Secs Idx Fund,15.53,0.27,,,
+GSLC.P,Goldman Sachs ActiveBeta US Large Cap Equity ETF,15.42,1.0,,,
+VNOM.OQ,Viper Energy Inc,15.4,0.39,10.67,5.6,34.86
+MAS.N,Masco Corp,15.37,1.28,79.97,68.98,-445.86
+YUMC.N,Yum China Holdings Inc,15.33,0.1,87.71,84.15,11.78
+ARMK.N,Aramark,15.29,1.11,73.74,78.84,12.68
+MEDP.OQ,Medpace Holdings Inc,15.14,1.16,32.09,47.28,65.85
+ONTO.N,Onto Innovation Inc,15.13,1.57,84.5,54.74,13.93
+PNFP.N,Pinnacle Financial Partners Inc,15.13,,60.0,51.05,10.25
+DVA.N,DaVita Inc,15.12,0.89,84.97,75.23,92.47
+NXT.OQ,Nextpower Inc,15.12,1.91,26.94,36.28,8.26
+SGI.N,Somnigroup International Inc,15.1,1.18,64.6,66.85,14.05
+DFAS.P,Dimensional U S Small Cap ETF,15.0,1.01,,,
+WMG.OQ,Warner Music Group Corp,15.0,1.29,48.26,55.47,172.26
+DOC.N,"Healthpeak Properties, Inc",14.98,0.99,80.33,82.7,4.76
+DECK.N,Deckers Outdoor Corp,14.97,1.16,57.25,61.42,19.37
+EG.N,Everest Group Ltd,14.95,0.29,83.1,59.75,13.38
+J.N,Jacobs Solutions Inc,14.94,0.69,62.51,76.67,15.77
+JLL.N,Jones Lang LaSalle Inc,14.94,1.26,79.42,74.44,11.44
+NTNX.OQ,Nutanix Inc,14.93,0.62,46.92,47.75,-33.6
+DTM.N,DT Midstream Inc,14.9,0.73,41.81,47.76,8.88
+SUI.N,Sun Communities Inc,14.89,0.79,81.04,58.12,2.18
+JAZZ.OQ,Jazz Pharmaceuticals PLC,14.89,0.33,44.48,40.54,26.44
+IWO.P,iShares Russell 2000 Growth ETF,14.87,1.2,,,
+ALB.N,Albemarle Corp,14.83,1.33,83.77,67.38,14.18
+DINO.N,HF Sinclair Corp,14.73,0.72,70.37,57.49,13.81
+SCHM.P,Schwab US Mid-Cap ETF,14.73,1.04,,,
+EMB.OQ,iShares JPMorgan USD Emerging Markets Bond ETF,14.73,0.51,,,
+TRU.N,TransUnion,14.69,1.54,86.11,70.0,18.04
+REG.OQ,Regency Centers Corp,14.64,0.82,62.89,69.59,6.59
+IONQ.N,IONQ Inc,14.51,3.25,13.0,6.6,-21.91
+SUN.N,Sunoco LP,14.5,0.42,7.71,11.73,36.68
+PTC.OQ,Ptc Inc,14.49,0.99,57.35,69.06,23.96
+OWL.N,Blue Owl Capital Inc,14.48,1.19,23.95,30.57,45.87
+TIP.P,iShares TIPS Bond ETF,14.46,0.28,,,
+MKC.N,McCormick & Company Inc,14.45,0.63,59.5,74.14,14.66
+XLP.P,Consumer Staples Select Sector SPDR Fund,14.44,0.49,,,
+OHI.N,"Omega Healthcare Investors, Inc",14.43,0.57,72.35,63.89,10.11
+QXO.N,QXO Inc,14.42,,22.88,14.23,0.35
+NVMI.OQ,Nova Ltd,14.4,1.76,48.75,34.04,23.97
+PHYS.P,Sprott Physical Gold Trust,14.38,0.2,,,
+CIBR.OQ,First Trust NASDAQ Cybersecurity ETF,14.35,0.93,,,
+UNM.N,Unum Group,14.29,0.24,76.42,64.37,12.59
+IWN.P,iShares Trust - iShares Russell 2000 Value ETF,14.27,1.03,,,
+DFAT.P,Dimensional U S Targeted Value ETF,14.26,0.98,,,
+TTMI.OQ,TTM Technologies Inc,14.16,2.13,81.83,39.89,11.74
+JHX.N,James Hardie Industries PLC,14.1,1.78,53.62,56.56,20.82
+EXEL.OQ,Exelixis Inc,14.09,0.43,79.1,64.58,19.06
+CNA.N,CNA Financial Corp,14.04,0.28,13.33,20.34,11.96
+HDV.P,iShares Trust - iShares Core High Dividend ETF,14.02,0.55,,,
+ITA.Z,iShares US Aerospace & Defense ETF,13.97,0.75,,,
+CHKP.OQ,Check Point Software Technologies Ltd,13.97,0.48,69.72,66.71,35.04
+IREN.OQ,IREN Ltd,13.93,4.29,,,0.85
+COO.OQ,Cooper Companies Inc,13.91,0.83,77.5,58.98,6.7
+PAVE.Z,Global X US Infrastructure Development ETF,13.9,1.22,,,
+IGV.Z,iShares Trust - iShares Expanded Tech-Software Sector ETF,13.9,1.18,,,
+RRX.N,Regal Rexnord Corp,13.88,1.08,35.27,51.36,10.66
+GL.N,Globe Life Inc,13.87,0.47,75.07,59.93,17.84
+AIZ.N,Assurant Inc,13.87,0.56,72.69,72.92,15.28
+AVUS.P,Avantis US Equity ETF,13.85,1.0,,,
+TOL.N,Toll Brothers Inc,13.85,1.33,72.03,45.68,18.16
+ALLY.N,Ally Financial Inc,13.83,1.08,70.52,43.61,11.58
+EVR.N,Evercore Inc,13.79,1.5,69.48,54.64,36.88
+LECO.OQ,Lincoln Electric Holdings Inc,13.76,1.21,51.31,48.82,42.68
+BTSG.OQ,Brightspring Health Services Inc,13.74,,24.98,17.82,4.16
+CRBG.N,Corebridge Financial Inc,13.74,1.13,62.38,53.22,12.84
+JCPB.P,JPMorgan Core Plus Bond ETF,13.69,0.25,,,
+RNR.N,Renaissancere Holdings Ltd,13.67,0.17,45.18,32.09,15.99
+LULU.OQ,Lululemon Athletica Inc,13.66,0.86,77.93,55.36,39.74
+PS.N,Pershing Square Inc,13.66,,,,
+SPTM.P,SPDR Portfolio S&P 1500 Composite Stock Market ETF,13.61,1.01,,,
+QLD.P,ProShares Ultra QQQ,13.61,2.46,,,
+SCZ.OQ,Ishares Msci Eafe Small Cap Index Fund,13.56,0.84,,,
+IQLT.P,iShares MSCI Intl Quality Factor ETF,13.53,0.83,,,
+FUTU.OQ,Futu Holdings Ltd,13.51,0.42,13.47,24.89,158.58
+CSL.N,Carlisle Companies Inc,13.48,0.84,90.51,70.8,32.08
+FNF.N,Fidelity National Financial Inc,13.47,0.99,35.53,43.84,18.94
+HRL.N,Hormel Foods Corp,13.46,0.33,48.18,60.4,11.56
+SWK.N,Stanley Black & Decker Inc,13.45,1.17,67.17,67.24,8.02
+SOLV.N,Solventum Corp,13.41,,34.64,48.22,11.75
+LDOS.N,Leidos Holdings Inc,13.41,0.54,42.64,66.24,26.28
+U.N,Unity Software Inc,13.39,2.05,15.27,32.12,-8.72
+ARCC.OQ,Ares Capital Corp,13.38,0.62,10.43,21.02,11.79
+VFH.P,Vanguard Financials Index Fund,13.37,0.91,,,
+GNRC.N,Generac Holdings Inc,13.36,1.9,63.63,39.07,19.42
+WSE.OQ,Wise Group PLC,13.33,,83.01,59.03,
+PFF.OQ,iShares Preferred and Income Securities ETF,13.29,0.53,,,
+SCHR.P,Schwab Intermediate-Term US Treasury ETF,13.29,0.17,,,
+TYL.N,Tyler Technologies Inc,13.25,0.81,68.17,63.87,12.93
+MGV.P,Vanguard Mega Cap Value Index Fund,13.21,0.74,,,
+PNW.N,Pinnacle West Capital Corp,13.16,0.42,31.72,56.91,9.06
+DKNG.OQ,Draftkings Inc,13.12,1.65,16.52,18.5,-51.31
+JBS.N,Jbs NV,13.09,,,,4.32
+RPM.N,RPM International Inc,13.08,1.03,74.79,62.55,25.73
+UDR.N,UDR Inc,13.06,0.68,72.11,62.24,6.27
+BWA.N,Borgwarner Inc,13.05,1.1,68.64,67.12,15.63
+EQH.N,Equitable Holdings Inc,13.05,1.1,85.73,73.86,42.5
+FPS.N,"Forgent Power Solutions, Inc",12.97,,,,
+DT.N,"Dynatrace, Inc",12.94,0.72,55.76,59.87,18.22
+ALGN.OQ,Align Technology Inc,12.93,1.65,68.79,60.17,18.96
+ERIE.OQ,Erie Indemnity Co,12.92,0.29,66.08,41.17,26.27
+CNH.N,CNH Industrial NV,12.92,1.15,48.6,79.01,22.43
+DOCN.N,DigitalOcean Holdings Inc,12.87,1.58,33.85,30.32,-38.99
+AA.N,Alcoa Corp,12.86,1.62,92.77,79.05,13.14
+ICLR.OQ,ICON PLC,12.72,1.2,41.99,68.42,12.17
+ZBRA.OQ,Zebra Technologies Corp,12.7,1.6,41.88,47.36,24.99
+PAG.N,Penske Automotive Group Inc,12.7,0.85,32.06,37.31,23.6
+PINS.N,Pinterest Inc,12.66,0.91,30.93,40.48,23.47
+AMLP.P,Alerian MLP ETF,12.66,0.48,,,
+SCHO.P,Schwab Short Term Us Treasury Etf,12.66,0.05,,,
+MOH.N,Molina Healthcare Inc,12.65,0.74,67.86,54.81,26.65
+ONON.N,On Holding AG,12.64,2.12,29.93,34.86,11.57
+TXRH.OQ,Texas Roadhouse Inc,12.62,0.8,68.95,58.62,28.26
+AGNC.OQ,AGNC Investment Corp,12.62,1.3,36.62,44.16,23.88
+ELS.N,Equity LifeStyle Properties Inc,12.6,0.66,72.94,68.92,21.83
+IVZ.N,Invesco Ltd,12.59,1.61,81.93,67.7,8.23
+ELAN.N,Elanco Animal Health Inc,12.56,1.68,33.54,61.83,7.02
+PEN.N,Penumbra Inc,12.54,0.7,67.43,51.91,6.58
+APTV.N,APTIV PLC,12.53,1.46,41.39,54.27,13.01
+FIG.N,Figma Inc,12.5,,,,3.06
+SCHE.P,Schwab Emerging Markets Equity ETF,12.49,0.6,,,
+MLI.N,Mueller Industries Inc,12.48,1.12,64.63,39.59,9.49
+GLPI.OQ,Gaming and Leisure Properties Inc,12.47,0.69,51.93,37.63,19.47
+CR.N,Crane Co,12.46,1.01,78.38,47.8,11.13
+MOGa.N,Moog Inc,12.45,0.97,51.2,56.98,13.51
+MOD.N,Modine Manufacturing Co,12.44,1.68,74.42,38.97,21.77
+PVAL.P,Putnam Focused Large Cap Value ETF,12.42,0.84,,,
+RVTY.N,Revvity Inc,12.4,1.07,85.26,79.06,11.12
+PNR.N,Pentair PLC,12.37,1.02,71.84,67.4,21.87
+WBS.N,Webster Financial Corp,12.35,1.01,61.67,57.77,12.33
+DY.N,Dycom Industries Inc,12.32,1.52,32.95,29.77,19.02
+SMTC.OQ,Semtech Corp,12.31,2.34,73.49,46.63,30.11
+GGG.N,Graco Inc,12.27,0.92,53.58,47.96,22.22
+CCK.N,Crown Holdings Inc,12.26,0.6,69.54,62.09,35.16
+APA.OQ,APA Corp (US),12.25,0.36,86.04,62.34,44.76
+FHN.N,First Horizon Corp,12.25,0.63,78.08,60.77,11.39
+MDGL.OQ,Madrigal Pharmaceuticals Inc,12.24,-1.04,13.89,16.06,-121.55
+NIO.N,NIO Inc,12.21,0.91,20.94,55.86,-185.28
+HUT.OQ,Hut 8 Corp,12.2,4.66,26.4,34.63,-8.58
+TRMB.OQ,Trimble Inc,12.19,1.38,64.51,69.99,14.75
+AVY.N,Avery Dennison Corp,12.18,0.83,51.26,68.07,34.9
+AIT.N,Applied Industrial Technologies Inc,12.17,0.84,41.88,33.27,23.06
+AMH.N,American Homes 4 Rent,12.16,0.8,74.86,61.33,4.93
+NYT.N,New York Times Co,12.15,0.95,56.07,50.83,16.96
+JEF.N,Jefferies Financial Group Inc,12.12,1.54,68.82,64.17,6.54
+BFb.N,Brown-Forman Corp,12.12,0.35,61.74,45.74,25.17
+MGM.N,MGM Resorts International,12.09,1.31,68.33,67.27,10.12
+KNX.N,Knight-Swift Transportation Holdings Inc,12.08,1.18,54.85,47.24,6.35
+GDDY.N,GoDaddy Inc,12.03,0.89,59.7,60.32,-175.07
+IESC.OQ,IES Holdings Inc,12.01,1.78,37.15,14.49,7.19
+AFG.N,American Financial Group Inc,11.91,0.61,34.99,33.45,20.76
+SMMT.OQ,Summit Therapeutics Inc,11.88,-1.25,32.81,30.88,-55.74
+AUR.OQ,Aurora Innovation Inc,11.87,2.65,43.61,44.05,-37.75
+COKE.OQ,Coca-Cola Consolidated Inc,11.85,0.54,9.44,10.38,0.9
+UHAL.N,U-Haul Holding Co,11.84,1.13,37.75,15.15,44.44
+SJM.N,J.M. Smucker Co,11.81,0.25,61.91,67.32,14.09
+PSLV.P,Sprott Physical Silver Trust,11.79,0.47,,,
+MOAT.Z,VanEck Morningstar Wide Moat ETF,11.78,0.95,,,
+CSGP.OQ,Costar Group Inc,11.75,0.73,74.38,68.79,6.19
+AXSM.OQ,Axsome Therapeutics Inc,11.75,0.64,15.29,29.57,-287.54
+ALLE.N,Allegion PLC,11.72,0.86,19.31,45.23,49.4
+ESGD.OQ,iShares ESG Aware MSCI EAFE ETF,11.7,0.79,,,
+GWRE.N,Guidewire Software Inc,11.68,0.95,41.82,53.03,8.52
+NOBL.Z,ProShares S&P 500 Dividend Aristocrats ETF,11.66,0.76,,,
+BAX.N,Baxter International Inc,11.66,0.62,80.82,79.24,19.63
+BROS.N,Dutch Bros Inc,11.61,2.32,26.39,18.66,16.58
+GRID.OQ,First Trust NASDAQ Cln Edge Smart Grid Infra Ix Fd,11.59,1.27,,,
+WTS.N,Watts Water Technologies Inc,11.58,1.13,45.66,67.1,18.56
+SPIB.P,SPDR Portfolio Intermediate Term Corporate Bd ETF,11.58,0.21,,,
+SEIC.OQ,SEI Investments Co,11.57,0.98,56.01,48.77,25.39
+DRS.OQ,Leonardo DRS Inc,11.56,0.36,65.92,58.49,6.84
+SF.N,Stifel Financial Corp,11.54,1.01,40.3,44.95,10.94
+SAIA.OQ,Saia Inc,11.52,2.13,44.7,30.82,18.31
+BJ.N,BJ's Wholesale Club Holdings Inc,11.51,0.22,37.21,31.6,44.87
+VICR.OQ,Vicor Corp,11.49,2.36,13.81,31.55,9.07
+CLX.N,Clorox Co,11.49,0.53,71.95,75.71,381.18
+CPT.N,Camden Property Trust,11.48,0.79,87.13,81.5,7.14
+BMRN.OQ,BioMarin Pharmaceutical Inc,11.44,0.24,54.59,51.92,3.7
+W.N,Wayfair Inc,11.4,2.99,24.34,27.44,4.65
+SPHY.P,SPDR Portfolio High Yield Bond ETF,11.39,0.38,,,
+CGGO.P,Capital Group Global Growth Equity ETF,11.38,1.02,,,
+VSS.P,Vanguard FTSE All-World ex-US Small-Cap Index,11.37,0.86,,,
+SUB.P,iShares Short-Term National Muni Bond ETF,11.36,0.08,,,
+OC.N,Owens Corning,11.36,1.31,73.34,88.87,25.81
+ACWX.OQ,iShares MSCI ACWI ex US ETF,11.36,0.77,,,
+AEIS.OQ,Advanced Energy Industries Inc,11.35,1.27,67.37,46.67,18.55
+CART.OQ,Maplebear Inc,11.35,,19.31,20.27,5.51
+PBUS.Z,Invesco MSCI USA ETF,11.34,1.02,,,
+SCHH.P,Schwab US REIT ETF,11.34,0.95,,,
+EGP.N,Eastgroup Properties Inc,11.34,1.04,74.12,73.3,8.85
+WMS.N,Advanced Drainage Systems Inc,11.31,1.26,65.0,47.47,35.1
+SDVY.OQ,First Trust SMID Cap Rising Dividend Achievers ETF,11.31,1.02,,,
+MUSA.N,Murphy USA Inc,11.28,0.29,73.39,50.16,68.14
+HAS.OQ,Hasbro Inc,11.25,0.48,83.52,64.54,62.02
+PODD.OQ,Insulet Corp,11.23,1.11,83.99,73.56,21.19
+HII.N,Huntington Ingalls Industries Inc,11.22,0.25,36.77,44.38,16.29
+CGUS.P,Capital Group Core Equity ETF,11.22,0.94,,,
+RMBS.OQ,Rambus Inc,11.15,1.86,30.69,45.46,20.05
+CYTK.OQ,Cytokinetics Inc,11.15,0.38,65.31,65.39,285.29
+FROG.OQ,Jfrog Ltd,11.15,1.21,75.26,51.1,6.87
+HUBS.N,HubSpot Inc,11.14,1.22,70.76,68.33,21.27
+TECH.OQ,Bio-Techne Corp,11.12,1.28,84.5,73.53,13.19
+CRL.N,Charles River Laboratories International Inc,11.07,1.39,84.21,79.57,17.38
+JIRE.P,JPMorgan International Research Enhanced Equity ETF,11.02,0.81,,,
+MAJJ.PK,Michael Anthony Holdings Inc,11.01,,,,
+RYAN.N,Ryan Specialty Holdings Inc,11.01,0.6,4.86,19.24,94.18
+SCI.N,Service Corporation International,10.99,0.83,83.0,47.5,32.86
+TLH.P,iShares 10-20 Year Treasury Bond ETF,10.98,0.43,,,
+UMBF.OQ,UMB Financial Corp,10.96,0.78,62.24,46.26,13.05
+WTRG.N,Essential Utilities Inc,10.95,0.63,61.9,61.16,9.05
+EHC.N,Encompass Health Corp,10.92,0.75,68.31,51.11,22.64
+DFAX.P,Dimensional World ex U S Core Equity 2 ETF,10.91,0.77,,,
+IGF.OQ,Ishares S&P Global Infrastructure Index Fund,10.9,0.61,,,
+WTFC.OQ,Wintrust Financial Corp,10.89,0.85,68.03,52.27,11.83
+BPOP.OQ,Popular Inc,10.89,0.63,39.17,45.58,15.55
+FBTC.Z,Fidelity Wise Origin Bitcoin Fund,10.87,,,,
+GMED.N,Globus Medical Inc,10.83,0.95,6.59,14.0,11.77
+SANM.OQ,Sanmina Corp,10.82,1.58,66.8,55.16,15.91
+IJK.P,iShares S&P Mid-Cap 400 Growth ETF,10.81,1.06,,,
+AAL.OQ,American Airlines Group Inc,10.79,1.33,36.65,56.98,-7.38
+SPXC.N,SPX Technologies Inc,10.77,1.26,52.14,44.28,16.29
+XLG.P,Invesco S&P 500 Top 50 ETF,10.72,1.06,,,
+DFCF.P,DFA Dimensional Core Fixed Income ETF,10.72,0.29,,,
+KRYS.OQ,Krystal Biotech Inc,10.71,0.52,45.43,25.47,-3.95
+JKHY.OQ,Jack Henry & Associates Inc,10.71,0.57,54.1,53.45,23.77
+BXP.N,BXP Inc,10.69,1.04,57.5,70.5,8.71
+PSKY.OQ,Paramount Skydance Corp,10.69,1.46,63.81,69.74,4.62
+BBCA.Z,JPMorgan BetaBuilders Canada ETF,10.68,0.86,,,
+AM.N,Antero Midstream Corp,10.67,0.62,49.72,62.42,18.85
+IAGG.Z,iShares Core International Aggregate Bond ETF,10.64,0.22,,,
+CGNX.OQ,Cognex Corp,10.64,1.49,49.43,38.35,12.4
+AR.N,Antero Resources Corp,10.62,0.34,67.31,61.9,9.39
+AIRR.OQ,First Trust RBA Amer Industrial Renaissance ETF,10.62,1.27,,,
+SPYI.Z,NEOS S&P 500 High Income ETF,10.6,0.7,,,
+FIVE.OQ,Five Below Inc,10.59,1.0,30.38,29.07,20.52
+XBI.P,SPDR Series Trust - SPDR S&P Biotech ETF,10.57,0.83,,,
+CACI.N,CACI International Inc,10.56,0.54,72.06,67.55,14.62
+ONEQ.OQ,Fidelity Nasdaq Composite Index ETF,10.54,1.22,,,
+AES.N,AES Corp,10.53,0.95,98.94,73.96,42.07
+FRT.N,Federal Realty Investment Trust,10.53,0.93,86.61,77.97,11.66
+SCHZ.P,Schwab US Aggregate Bond ETF,10.52,0.26,,,
+VMI.N,Valmont Industries Inc,10.48,1.34,61.79,64.21,22.09
+AHR.N,American Healthcare REIT Inc,10.47,,45.97,30.22,0.52
+ARWR.OQ,Arrowhead Pharmaceuticals Inc,10.44,1.29,20.26,24.17,-55.03
+SPSB.P,SPDR Portfolio Short Term Corporate Bond ETF,10.43,0.08,,,
+EWT.P,iShares Inc - iShares MSCI Taiwan ETF,10.4,1.15,,,
+SPTI.P,SPDR Portfolio Intermediate Term Treasury ETF,10.37,0.16,,,
+WULF.OQ,Terawulf Inc,10.35,3.76,30.36,43.62,-351.62
+ZION.OQ,Zions Bancorporation NA,10.35,0.79,41.49,41.3,14.16
+DCI.N,Donaldson Company Inc,10.35,0.93,23.92,57.76,28.49
+IGM.P,iShares Expanded Tech Sector ETF,10.35,1.4,,,
+FENI.P,Fidelity Enhanced International ETF,10.34,,,,
+PAYP.OQ,PayPay Corp,10.33,,,,
+VGLT.OQ,Vanguard Long Term Treasury ETF,10.33,0.48,,,
+SIRI.OQ,Sirius XM Holdings Inc,10.32,0.94,76.55,58.35,-233.81
+ARW.N,Arrow Electronics Inc,10.32,1.2,65.15,58.57,15.63
+DPZ.OQ,Domino's Pizza Inc,10.31,0.96,59.15,56.13,-12.98
+LFUS.OQ,Littelfuse Inc,10.3,1.49,95.8,75.12,13.79
+GSAT.OQ,Globalstar Inc,10.28,1.57,29.31,17.85,-310.82
+R.N,Ryder System Inc,10.26,1.01,79.63,69.75,19.89
+ORI.N,Old Republic International Corp,10.24,0.6,56.41,36.95,12.57
+FRHC.OQ,Freedom Holding Corp,10.24,0.67,31.2,54.22,9.55
+HL.N,Hecla Mining Co,10.23,1.31,39.6,63.0,5.54
+SIMO.OQ,Silicon Motion Technology Corp,10.18,1.69,22.47,23.32,83.09
+ONB.OQ,Old National Bancorp,10.17,0.84,37.86,40.13,11.72
+OGE.N,OGE Energy Corp,10.11,0.52,77.83,54.46,11.35
+VIAV.OQ,Viavi Solutions Inc,10.09,1.21,36.18,48.55,19.86
+WYNN.OQ,Wynn Resorts Ltd,10.08,1.01,53.49,57.56,-0.34
+APGE.OQ,Apogee Therapeutics Inc,10.06,,46.69,35.87,-28.92
+FLOT.Z,iShares Floating Rate Bond ETF,10.05,0.02,,,
+TEM.OQ,Tempus AI Inc,10.04,,18.3,16.78,-26.22
+GTLS.N,Chart Industries Inc,10.04,1.53,95.7,57.35,10.41
+VIRT.N,Virtu Financial Inc,10.03,,18.58,24.2,42.68
+MGC.P,Vanguard Mega Cap Index Fund,10.03,1.02,,,
+LINE.OQ,Lineage Inc,9.98,,24.42,26.16,-2.54
+FDVV.P,Fidelity High Dividend ETF,9.98,0.88,,,
+JPIE.P,JPMorgan Income ETF,9.93,0.18,,,
+CFR.N,Cullen/Frost Bankers Inc,9.92,0.53,38.35,25.38,15.46
+GME.N,GameStop Corp,9.88,1.79,39.68,23.98,-0.89
+DAR.N,Darling Ingredients Inc,9.86,1.04,89.43,64.33,11.95
+ENSG.OQ,"Ensign Group, Inc",9.84,0.69,66.5,53.35,19.24
+SSB.N,SouthState Bank Corp,9.81,,36.71,36.33,10.47
+NUVL.OQ,"Nuvalent, Inc",9.81,1.14,42.43,27.95,-65.44
+PRF.P,Invesco RAFI US 1000 ETF,9.78,0.88,,,
+HSIC.OQ,Henry Schein Inc,9.77,0.8,62.64,63.48,17.08
+AIQ.OQ,Global X Artificial Intelligence & Technology ETF,9.76,1.35,,,
+WLK.N,Westlake Corp,9.75,0.63,27.62,32.66,12.37
+AYI.N,Acuity Inc,9.74,1.28,41.35,55.21,21.32
+SPAB.P,SPDR Portfolio Aggregate Bond ETF,9.73,0.25,,,
+SFD.OQ,Smithfield Foods Inc,9.73,,38.3,65.92,3.11
+SOLS.OQ,Solstice Advanced Materials Inc,9.7,,,,
+VLUE.Z,iShares MSCI USA Value Factor ETF,9.7,1.08,,,
+VDE.P,Vanguard Energy Index Fund,9.68,0.46,,,
+PRI.N,Primerica Inc,9.67,0.88,43.86,51.77,27.13
+ESI.N,Element Solutions Inc,9.65,1.24,62.46,73.59,13.92
+BSY.OQ,"Bentley Systems, Inc",9.65,1.0,24.4,42.58,40.04
+JGRO.P,JPMorgan Active Growth ETF,9.64,1.1,,,
+BRX.N,Brixmor Property Group Inc,9.63,0.97,84.86,81.27,11.95
+ALSN.N,Allison Transmission Holdings Inc,9.62,0.95,38.58,38.52,52.34
+TKR.N,Timken Co,9.61,1.2,59.27,54.68,16.09
+LLYVA.OQ,Liberty Live Holdings Inc,9.56,,,,
+RWL.P,Invesco S&P 500 Revenue ETF,9.54,0.86,,,
+CTRE.N,CareTrust REIT Inc,9.53,0.58,44.01,42.83,7.82
+OSCR.N,Oscar Health Inc,9.53,2.37,40.72,33.42,-21.62
+DOCU.OQ,DocuSign Inc,9.52,0.9,32.71,46.76,72.11
+AMG.N,Affiliated Managers Group Inc,9.5,1.12,72.6,54.72,22.46
+VSAT.OQ,Viasat Inc,9.5,1.72,46.66,53.41,7.24
+ALGM.OQ,Allegro Microsystems Inc,9.47,1.92,43.17,54.26,17.96
+IT.N,Gartner Inc,9.46,0.95,75.0,69.18,231.42
+ADC.N,Agree Realty Corp,9.44,0.47,41.48,43.83,3.96
+FCFS.OQ,Firstcash Holdings Inc,9.41,0.53,40.15,29.57,15.07
+EZU.Z,iShares MSCI Eurozone ETF,9.4,0.91,,,
+IONS.OQ,Ionis Pharmaceuticals Inc,9.38,0.39,49.01,63.74,-77.32
+FNDE.P,Schwab Fundamental EM Equity ETF,9.37,0.58,,,
+MANH.OQ,Manhattan Associates Inc,9.37,0.96,50.27,43.02,105.97
+FDS.N,Factset Research Systems Inc,9.36,0.71,89.67,68.05,34.96
+LEVI.N,Levi Strauss & Co,9.31,1.32,48.72,53.95,27.91
+TTD.OQ,Trade Desk Inc,9.3,1.03,10.07,17.29,31.18
+MSGS.N,Madison Square Garden Sports Corp,9.3,0.62,7.19,18.53,-14.67
+COLB.OQ,Columbia Banking System Inc,9.26,0.6,58.7,63.87,12.63
+PL.N,Planet Labs PBC,9.25,2.07,29.3,31.2,-11.03
+UHS.N,Universal Health Services Inc,9.25,1.07,33.52,37.6,14.95
+IBB.OQ,iShares Trust - iShares Biotechnology ETF,9.24,0.7,,,
+LTH.N,"Life Time Group Holdings, Inc",9.23,1.51,25.6,42.1,5.35
+CORT.OQ,Corcept Therapeutics Inc,9.22,0.47,56.7,23.39,17.16
+CUBE.N,CubeSmart,9.19,1.08,69.03,56.28,12.64
+AAON.OQ,Aaon Inc,9.19,1.43,30.76,50.22,16.5
+SARO.N,"StandardAero, Inc.",9.16,,26.09,30.73,2.35
+FNDA.P,Schwab Fundamental US Small Company ETF,9.15,1.04,,,
+HLI.N,Houlihan Lokey Inc,9.15,0.95,9.04,28.08,23.7
+GLXY.OQ,Galaxy Digital Inc,9.1,,,,
+OSK.N,Oshkosh Corp,9.09,1.24,66.22,75.01,12.13
+BBEU.Z,JPMorgan BetaBuilders Europe ETF,9.09,0.84,,,
+KYMR.OQ,Kymera Therapeutics Inc,9.08,1.94,32.16,22.8,-30.69
+VUSB.Z,Vanguard Ultra-Short Bond ETF,9.05,0.03,,,
+DBEF.P,Xtrackers MSCI EAFE Hedged Equity ETF,9.03,0.62,,,
+HALO.OQ,Halozyme Therapeutics Inc,9.03,0.85,83.38,64.09,178.64
+EWZ.P,iShares MSCI Brazil ETF,9.02,0.65,,,
+NCLH.N,Norwegian Cruise Line Holdings Ltd,9.01,1.9,73.51,77.05,-19.31
+NNN.N,NNN REIT Inc,9.01,0.78,90.18,54.56,8.85
+MTCH.OQ,Match Group Inc,8.99,1.3,28.39,38.93,-321.08
+VCLT.OQ,Vanguard Long Term Corporate Bond Etf,8.99,0.62,,,
+TX.N,Ternium SA,8.99,1.19,13.84,50.74,144.89
+AAOI.OQ,Applied Optoelectronics Inc,8.98,3.73,19.13,15.73,-10.36
+BRKR.OQ,Bruker Corp,8.98,1.29,67.21,58.17,25.38
+VOYA.N,Voya Financial Inc,8.97,0.9,72.95,67.93,17.16
+GKOS.N,Glaukos Corp,8.97,0.8,40.35,60.45,-15.2
+IXN.P,iShares Global Tech ETF,8.93,1.37,,,
+LKNCY.PK,Luckin Coffee Inc,8.93,-0.34,25.06,16.42,91.08
+ALV.N,Autoliv Inc,8.93,1.36,91.25,69.66,22.88
+SNEX.OQ,StoneX Group Inc,8.91,0.66,67.47,47.6,9.43
+YMM.N,Full Truck Alliance Co Ltd,8.89,0.36,8.42,31.5,31.82
+TTC.N,Toro Co,8.89,0.69,50.11,64.29,29.24
+CRNX.OQ,Crinetics Pharmaceuticals Inc,8.86,0.16,39.81,35.38,-49.12
+ACM.N,AECOM,8.83,0.93,91.69,75.3,23.91
+VIGI.OQ,Vanguard Intl Dividend Appreciation Index Fund,8.82,0.7,,,
+MP.N,MP Materials Corp,8.81,1.87,37.39,46.27,6.92
+KTOS.OQ,Kratos Defense and Security Solutions Inc,8.81,1.08,61.64,24.89,4.83
+WAL.N,Western Alliance Bancorp,8.79,1.33,63.21,42.93,16.86
+PRAX.OQ,Praxis Precision Medicines Inc,8.77,2.79,24.0,18.94,-1760.9
+SWKS.OQ,Skyworks Solutions Inc,8.76,1.51,51.63,52.37,22.16
+VPU.P,Vanguard Utilities Index Fund,8.75,0.61,,,
+FLS.N,Flowserve Corp,8.74,1.25,93.81,77.9,14.98
+IJJ.P,iShares S&P Mid-Cap 400 Value ETF,8.72,0.97,,,
+PB.N,"Prosperity Bancshares, Inc",8.71,0.66,20.88,32.44,7.4
+CNM.N,Core & Main Inc,8.66,0.91,21.38,13.71,29.38
+ALKS.OQ,Alkermes Plc,8.65,0.29,12.4,51.66,16.48
+PRMB.N,Primo Brands Corp,8.63,0.73,36.83,40.67,11.4
+FR.N,First Industrial Realty Trust Inc,8.63,1.06,77.69,53.05,12.38
+IEUR.P,iShares Core MSCI Europe ETF,8.62,0.84,,,
+BBUS.Z,JPMorgan BetaBuilders US Equity ETF,8.61,1.02,,,
+IOO.P,iShares Global 100 ETF,8.61,0.96,,,
+FORM.OQ,FormFactor Inc,8.6,1.24,54.12,22.97,10.68
+COMP.N,Compass Inc,8.59,2.35,11.89,20.31,-45.91
+QGEN.N,Qiagen NV,8.55,0.64,75.41,81.8,16.45
+RRC.N,Range Resources Corp,8.54,0.43,87.89,67.52,28.84
+CBSH.OQ,Commerce Bancshares Inc,8.53,0.58,41.53,38.66,14.9
+XLB.P,Materials Select Sector SPDR Fund,8.49,0.93,,,
+XP.OQ,XP Inc,8.46,1.13,18.24,53.98,23.9
+XLRE.P,Select Sector SPDR Trust - Real Estate Select Sector SPDR Fund,8.45,0.98,,,
+CAVA.N,CAVA Group Inc,8.45,,63.91,56.87,5.26
+AXS.N,AXIS Capital Holdings Ltd,8.44,0.5,72.09,59.64,15.17
+GBTC.P,Grayscale Bitcoin Trust ETF,8.44,,,,
+JXN.N,Jackson Financial Inc,8.42,1.33,82.38,63.94,15.47
+TGTX.OQ,TG Therapeutics Inc,8.42,1.61,34.86,19.26,-57.46
+AGX.N,Argan Inc,8.41,0.58,69.28,33.6,19.67
+ARKK.Z,ARK Innovation ETF,8.41,1.97,,,
+BOKF.OQ,BOK Financial Corp,8.39,0.8,26.09,41.92,10.5
+ARE.N,"Alexandria Real Estate Equities, Inc",8.38,1.17,72.95,70.11,0.46
+IDA.N,"Idacorp, Inc",8.36,0.47,81.37,53.27,9.31
+PTGX.OQ,Protagonist Therapeutics Inc,8.35,1.79,23.64,38.19,-16.39
+EDU.N,New Oriental Education & Technology Group Inc,8.34,0.26,34.2,67.1,73.57
+CGCP.P,Capital Group Core Plus Income ETF,8.33,0.32,,,
+VONE.OQ,Vanguard Russell 1000 Index Fund,8.33,1.02,,,
+CHWY.N,Chewy Inc,8.32,1.44,1.57,17.44,-2.77
+ESE.N,ESCO Technologies Inc,8.31,1.09,63.89,39.46,9.56
+JBND.N,JPMorgan Active Bond ETF,8.29,,,,
+BOND.N,PIMCO Active Bond Exchange-Traded Fund,8.28,0.27,,,
+AGCO.N,AGCO Corp,8.26,1.07,49.8,69.84,19.03
+IJT.OQ,iShares S&P Small-Cap 600 Growth ETF,8.25,1.05,,,
+VIS.P,Vanguard Industrials Index Fund,8.24,1.05,,,
+APLD.OQ,Applied Digital Corp,8.24,5.0,10.39,27.32,-59.41
+PCVX.OQ,Vaxcyte Inc,8.23,1.23,45.05,28.22,-33.5
+QYLD.OQ,Global X NASDAQ 100 Covered Call ETF,8.23,0.61,,,
+POWL.OQ,Powell Industries Inc,8.22,1.15,54.09,43.11,10.43
+FRO.N,Frontline PLC,8.22,0.04,76.25,45.65,16.75
+CIFR.OQ,Cipher Digital Inc,8.22,3.22,23.19,26.63,-12.69
+MBLY.OQ,Mobileye Global Inc,8.21,1.15,,,1.8
+DDS.N,Dillard's Inc,8.21,1.16,19.09,23.43,40.81
+BIRK.N,Birkenstock Holding PLC,8.21,,7.29,32.02,4.61
+AOS.N,A O Smith Corp,8.2,1.16,72.34,51.15,28.16
+KNTK.N,Kinetik Holdings Inc,8.2,0.56,61.52,62.78,-28.48
+FVD.P,First Trust Value Line Dividend Index Fund,8.19,0.65,,,
+RGEN.OQ,Repligen Corp,8.17,1.04,73.14,70.03,6.61
+VPL.P,Vanguard Pacific Stock Index Fund,8.16,0.82,,,
+IBRX.OQ,Immunitybio Inc,8.16,0.11,14.97,24.04,96.12
+JQUA.P,JPMorgan US Quality Factor ETF,8.16,0.91,,,
+SYRE.OQ,Spyre Therapeutics Inc,8.14,3.04,13.28,20.03,-498.04
+EAT.N,Brinker International Inc,8.12,1.27,70.46,62.54,14.02
+IDV.Z,iShares International Select Dividend ETF,8.09,0.67,,,
+TTEK.OQ,Tetra Tech Inc (Delaware),8.09,0.91,75.98,75.57,11.36
+PPA.P,Invesco Aerospace & Defense ETF,8.09,0.74,,,
+HESM.N,Hess Midstream LP,8.08,0.5,,,157.36
+URTH.P,iShares MSCI World ETF,8.08,0.95,,,
+VLY.OQ,Valley National Bancorp,8.06,1.05,83.22,55.15,8.87
+IJS.P,iShares S&P Small-Cap 600 Value ETF,8.05,1.01,,,
+BIO.N,Bio Rad Laboratories Inc,8.02,1.07,15.93,33.09,3.91
+SSO.P,ProShares Ultra S&P500,8.01,2.01,,,
+CLUS.PK,Cluster Group Holdings Ltd Co,8.0,1.47,,,
+HQY.OQ,Healthequity Inc,8.0,0.22,69.88,61.13,10.82
+MXL.OQ,Maxlinear Inc,8.0,3.94,41.1,44.38,20.06
+CHYM.OQ,Chime Financial Inc,7.98,,,,-39.46
+OKLO.N,Oklo Inc,7.97,1.16,11.04,7.89,-7.55
+ATR.N,Aptargroup Inc,7.97,0.39,64.1,72.93,13.63
+ICSH.Z,iShares Ultra Short Duration Bond Active ETF,7.96,0.01,,,
+HIMS.N,Hims & Hers Health Inc,7.96,2.38,10.15,17.94,-0.58
+KNSL.N,Kinsale Capital Group Inc,7.96,0.89,56.71,34.25,26.68
+RSI.N,Rush Street Interactive Inc,7.95,1.58,14.91,10.37,-29.32
+SAIL.OQ,SailPoint Inc,7.95,,,,0.47
+IMVT.OQ,Immunovant Inc,7.95,0.77,8.57,21.21,-61.85
+BLDR.N,Builders FirstSource Inc,7.91,1.42,55.9,40.08,32.19
+FELC.P,Fidelity Enhanced Large Cap Core ETF,7.87,,,,
+FTCS.OQ,First Trust Capital Strength ETF,7.86,0.71,,,
+BMNR.N,Bitmine Immersion Technologies Inc,7.85,,,,
+RHP.N,Ryman Hospitality Properties Inc,7.85,1.21,50.13,61.96,165.21
+REXR.N,Rexford Industrial Realty Inc,7.84,1.22,93.06,77.78,3.2
+SNAP.N,Snap Inc,7.84,1.04,52.36,58.98,19.81
+VDC.P,Vanguard Consumer Staples Index Fund,7.84,0.51,,,
+ZWS.N,Zurn Elkay Water Solutions Corp,7.83,1.08,54.39,77.96,16.49
+LNC.N,Lincoln National Corp,7.81,1.17,69.71,62.6,13.87
+KMX.N,Carmax Inc,7.79,1.16,62.43,52.48,9.49
+UGI.N,Ugi Corp,7.78,0.95,55.79,54.46,12.96
+BAH.N,Booz Allen Hamilton Holding Corp,7.77,0.36,81.9,64.16,65.49
+SGHC.N,SGHC Ltd,7.71,1.08,63.48,30.66,14.64
+NFG.N,National Fuel Gas Co,7.69,0.39,69.7,57.27,20.15
+EMN.N,Eastman Chemical Co,7.69,1.09,73.33,72.11,14.78
+POOL.OQ,Pool Corp,7.68,1.05,84.86,52.22,43.92
+GBIL.P,Goldman Sachs Access Treasury 0-1 Year ETF,7.67,0.01,,,
+TTAN.OQ,ServiceTitan Inc,7.67,,,,1.51
+ETSY.N,ETSY Inc,7.64,1.84,62.12,49.43,-705.43
+KEX.N,Kirby Corp,7.64,0.84,59.56,50.98,6.84
+SSD.N,Simpson Manufacturing Co Inc,7.64,1.3,88.89,72.82,21.15
+RIOT.OQ,Riot Platforms Inc,7.63,3.85,30.26,27.75,-20.2
+CELH.OQ,Celsius Holdings Inc,7.63,0.94,81.68,23.54,28.58
+FRVO.OQ,Fervo Energy Co,7.62,,,,
+TCAF.P,T Rowe Price Capital Appreciation Equity ETF,7.61,,,,
+SHYG.P,iShares 0-5 Year High Yield Corporate Bond ETF,7.6,0.28,,,
+THG.N,Hanover Insurance Group Inc,7.59,0.29,63.49,60.55,12.35
+PDI.N,PIMCO Dynamic Income Fund,7.57,0.58,,,
+FDL.P,First Tr Morningstar Dividend Leaders Index Fund,7.52,0.6,,,
+RAL.N,Ralliant Corp,7.51,,,,2.46
+SPYD.P,SPDR Portfolio S&P 500 High Dividend ETF,7.5,0.74,,,
+FMDE.P,Fidelity Enhanced Mid Cap ETF,7.5,,,,
+TEX.N,Terex Corp,7.49,1.5,97.53,86.81,23.17
+SFM.OQ,Sprouts Farmers Market Inc,7.49,0.68,69.45,54.72,28.97
+HXL.N,Hexcel Corp,7.48,1.06,66.36,64.58,8.22
+CBC.OQ,Central Bancompany Inc,7.47,,,,
+STAG.N,STAG Industrial Inc,7.47,0.97,76.78,59.99,6.47
+TRNO.N,Terreno Realty Corp,7.47,1.06,69.09,51.27,7.3
+EQX.A,Equinox Gold Corp,7.46,1.26,76.51,56.63,3.22
+QRVO.OQ,Qorvo Inc,7.44,1.44,80.14,61.18,18.43
+ICVT.Z,iShares Convertible Bond ETF,7.4,0.66,,,
+CRUS.OQ,Cirrus Logic Inc,7.39,1.17,62.95,52.03,22.2
+DIVO.P,Amplify CWP Enhanced Dividend Income ETF,7.39,0.65,,,
+LGN.OQ,Legence Corp,7.38,,,,
+RYTM.OQ,Rhythm Pharmaceuticals Inc,7.37,1.91,28.42,23.72,-286.72
+BILI.OQ,Bilibili Inc,7.36,0.73,68.31,68.79,-10.96
+JNK.P,SPDR Bloomberg High Yield Bond ETF,7.36,0.41,,,
+JOBY.N,Joby Aviation Inc,7.36,2.71,38.42,37.01,-48.92
+Z.OQ,Zillow Group Inc,7.35,1.99,39.59,59.91,5.58
+ENS.N,EnerSys,7.33,1.18,85.5,74.32,17.4
+XMMO.P,Invesco S and P MidCap Momentum ETF,7.32,1.1,,,
+CEF.P,Sprott Physical Gold and Silver Trust,7.31,0.34,,,-6.76
+KLAR.N,Klarna Group PLC,7.29,,,,
+MIRM.OQ,Mirum Pharmaceuticals Inc,7.26,0.51,11.81,15.5,-93.66
+LAD.N,Lithia Motors Inc,7.25,1.25,79.84,57.77,18.15
+JBTM.N,JBT Marel Corp,7.25,0.94,71.86,58.24,12.98
+ACI.N,Albertsons Companies Inc,7.24,0.39,30.61,34.2,58.48
+HEFA.Z,iShares Currency Hedged MSCI EAFE ETF,7.23,0.64,,,
+LSTR.OQ,Landstar System Inc,7.22,0.89,62.06,34.85,29.88
+CORZ.OQ,Core Scientific Inc,7.22,,23.14,23.38,54.4
+SLAB.OQ,Silicon Laboratories Inc,7.21,1.36,49.05,61.92,3.54
+HR.N,Healthcare Realty Trust Inc,7.21,0.94,79.21,66.04,-2.44
+AVTR.N,Avantor Inc,7.21,0.93,88.12,68.92,18.0
+VNO.N,Vornado Realty Trust,7.21,1.54,48.28,61.72,4.34
+VFS.OQ,VinFast Auto Ltd,7.18,0.92,,,22.07
+AVAV.OQ,AeroVironment Inc,7.18,1.41,50.34,52.08,9.04
+BKLN.P,Invesco Senior Loan ETF,7.17,0.18,,,
+SM.N,SM Energy Co,7.17,0.76,85.63,49.66,22.95
+DXJ.P,WisdomTree Japan Hedged Equity Fund,7.15,0.4,,,
+TBIL.OQ,F/m US Treasury 3 Month Bill ETF,7.15,-0.0,,,
+FAF.N,First American Financial Corp,7.14,1.25,44.66,42.02,11.58
+FSS.N,Federal Signal Corp,7.13,1.23,61.16,52.53,17.03
+SPLV.P,Invesco S&P 500 Low Volatility ETF,7.13,0.54,,,
+GAP.N,Gap Inc,7.13,2.04,49.13,68.86,15.95
+FNMA.PK,Federal National Mortgage Association,7.12,1.65,60.24,53.14,-3.0
+ACA.N,Arcosa Inc,7.1,1.05,34.99,38.73,6.43
+YOU.N,Clear Secure Inc,7.09,1.06,21.56,24.23,65.59
+MOS.N,Mosaic Co,7.09,0.83,91.78,68.77,13.43
+TAP.N,Molson Coors Beverage Co,7.09,0.43,71.75,49.83,7.72
+DFSD.P,DFA Dimensional Short-Duration Fixed Income ETF,7.05,0.1,,,
+CMC.N,Commercial Metals Co,7.04,1.53,75.03,72.51,18.82
+JMST.P,JPMorgan Ultra-Short Municipal Income ETF,7.02,0.03,,,
+MAC.N,Macerich Co,7.02,2.07,80.78,80.21,-5.56
+AVT.OQ,Avnet Inc,6.98,1.11,74.11,73.68,11.14
+SPMB.P,SPDR Portfolio Mortgage Backed Bond ETF,6.98,0.27,,,
+NEU.N,NewMarket Corp,6.97,0.58,65.78,31.26,
+HNGE.N,Hinge Health Inc,6.96,,,,22.64
+KBWB.OQ,Invesco KBW Bank ETF,6.93,1.03,,,
+FLR.N,Fluor Corp,6.93,1.24,46.83,68.0,12.86
+PLXS.OQ,Plexus Corp,6.93,0.88,64.59,64.52,12.74
+MSM.N,"Msc Industrial Direct Co., Inc",6.92,0.82,71.93,68.94,20.99
+GUNR.P,FlexShs Morningstar Glbl Upsteam Ntrl Res Idx Fd,6.92,0.58,,,
+QBTS.N,D-Wave Quantum Inc,6.91,2.11,60.06,38.95,47.13
+SPXL.P,Direxion Daily S&P 500 Bull 3X Shares,6.9,3.03,,,
+JGLO.OQ,JPMorgan Global Select Equity ETF,6.89,,,,
+CHRD.OQ,Chord Energy Corp,6.89,0.49,66.96,50.61,30.25
+NPO.N,Enpro Inc,6.89,1.52,72.16,51.66,10.66
+NOV.N,Nov Inc,6.87,0.93,69.25,58.49,4.93
+AXTA.N,Axalta Coating Systems Ltd,6.86,1.24,62.9,65.91,23.47
+LNTH.OQ,Lantheus Holdings Inc,6.86,-0.05,4.45,5.85,43.35
+GDXJ.P,VanEck Junior Gold Miners ETF,6.86,0.85,,,
+CAG.N,Conagra Brands Inc,6.86,-0.04,65.69,69.44,10.5
+PACS.N,Pacs Group Inc,6.85,,25.73,16.5,7.39
+OMF.N,OneMain Holdings Inc,6.85,1.18,25.04,27.98,25.14
+PAYC.N,Paycom Software Inc,6.83,0.79,51.04,58.07,32.14
+QMMM.OQ,QMMM Holdings Ltd,6.83,,,,
+INDA.Z,iShares Trust - iShares MSCI India ETF,6.81,0.45,,,
+ECG.N,Everus Construction Group Inc,6.8,,68.98,25.83,7.41
+DPC.N,DPC Holdings PLC,6.8,,,,
+COPX.P,Global X Copper Miners ETF,6.8,1.09,,,
+PBF.N,PBF Energy Inc,6.8,0.14,55.29,30.18,15.76
+JAVA.P,JPMorgan Active Value ETF,6.79,0.78,,,
+EPRT.N,Essential Properties Realty Trust Inc,6.79,0.9,69.09,61.98,6.6
+PPC.OQ,Pilgrims Pride Corp,6.78,0.29,40.85,52.7,26.52
+LEA.N,Lear Corp,6.78,1.26,49.99,66.26,12.35
+BZ.OQ,Kanzhun Ltd,6.76,0.5,40.71,50.19,31.72
+IDCC.OQ,InterDigital Inc,6.76,1.42,78.15,55.79,26.09
+PTCT.OQ,PTC Therapeutics Inc,6.75,0.55,66.51,41.99,-146.19
+FNB.N,FNB Corp,6.74,0.87,71.44,56.68,8.82
+GBCI.N,Glacier Bancorp Inc,6.74,0.73,77.32,64.88,8.4
+LOAR.N,Loar Holdings Inc,6.73,,14.61,16.85,3.1
+RRR.OQ,Red Rock Resorts Inc,6.72,1.37,35.85,26.86,297.24
+KGS.N,Kodiak Gas Services Inc,6.72,,58.72,58.94,5.5
+INGM.N,Ingram Micro Holding Corp,6.71,,27.8,42.39,3.41
+VIPS.N,Vipshop Holdings Ltd,6.69,0.65,46.05,61.92,4.36
+AROC.N,Archrock Inc,6.68,0.84,73.46,52.85,13.25
+NE.N,Noble Corporation PLC,6.67,0.95,72.24,47.85,5.18
+PCTY.OQ,Paylocity Holding Corp,6.67,0.51,18.94,30.5,35.06
+GTES.N,Gates Industrial Corporation PLC,6.66,1.26,74.69,75.1,11.44
+DBX.OQ,Dropbox Inc,6.66,0.65,44.05,51.42,-135.59
+JMTG.P,JPMorgan Mortgage Backed Securities ETF,6.65,,,,
+SGOL.P,abrdn Physical Gold Shares ETF,6.65,0.18,,,
+NAVN.OQ,Navan Inc,6.65,,,,
+LUMN.N,Lumen Technologies Inc,6.65,1.79,81.55,56.04,-0.06
+SWX.N,Southwest Gas Holdings Inc,6.65,0.57,76.7,50.98,5.43
+AWI.N,Armstrong World Industries Inc,6.64,1.17,45.41,58.91,39.56
+PCOR.N,Procore Technologies Inc,6.64,0.74,35.48,29.92,5.4
+IFS.N,Intercorp Financial Services Inc,6.64,0.83,44.17,67.02,15.26
+VFC.N,VF Corp,6.62,1.59,84.43,70.58,23.34
+TMHC.N,Taylor Morrison Home Corp,6.61,1.45,71.06,68.77,16.2
+CPB.OQ,Campbell's Co,6.61,0.0,47.47,63.96,23.4
+MORN.OQ,Morningstar Inc,6.6,1.0,66.47,61.55,6.26
+ESGE.OQ,iShares ESG Aware MSCI EM ETF,6.6,0.76,,,
+VOOV.P,Vanguard S&P 500 Value Index Fund,6.6,0.84,,,
+MTDR.N,Matador Resources Co,6.6,0.75,54.9,28.34,26.44
+ORA.N,Ormat Technologies Inc,6.56,0.88,87.87,63.36,5.5
+MHK.N,Mohawk Industries Inc,6.56,1.18,58.49,69.57,8.28
+FIGR.OQ,Figure Technology Solutions Inc,6.56,,,,
+TFLO.P,iShares Treasury Floating Rate Bond ETF,6.56,0.0,,,
+SRRK.OQ,Scholar Rock Holding Corp,6.55,0.68,28.43,25.56,-99.08
+CACC.OQ,Credit Acceptance Corp,6.55,1.36,37.36,35.09,26.87
+XENE.OQ,Xenon Pharmaceuticals Inc,6.55,0.62,46.49,30.03,-30.33
+VSGX.Z,Vanguard ESG International Stock ETF,6.54,0.81,,,
+CHE.N,Chemed Corp,6.53,0.52,53.94,35.91,32.78
+MSA.N,MSA Safety Inc,6.51,0.94,57.05,68.98,26.94
+ACMR.OQ,ACM Research Inc,6.5,1.93,59.95,39.56,11.33
+GLBE.OQ,Global-E Online Ltd,6.5,1.04,56.42,42.85,-6.63
+FTSM.OQ,First Trust Enhanced Short Maturity ETF,6.5,0.01,,,
+ESTC.N,Elastic NV,6.49,1.0,30.37,45.69,13.84
+LW.N,Lamb Weston Holdings Inc,6.49,0.47,76.04,65.24,54.93
+CROX.OQ,Crocs Inc,6.48,1.53,54.47,66.07,77.73
+LKQ.OQ,LKQ Corp,6.47,0.82,79.82,46.48,15.86
+AN.N,AutoNation Inc,6.47,0.72,85.56,55.14,39.04
+THRO.P,Ishares US Thematic Rotation Active ETF,6.47,1.11,,,
+ST.N,Sensata Technologies Holding PLC,6.46,1.26,71.22,75.77,17.51
+BBIN.Z,JPMorgan BetaBuilders International Equity ETF,6.45,0.79,,,
+RYN.N,Rayonier Inc,6.45,0.9,82.4,62.46,4.98
+VSH.N,Vishay Intertechnology Inc,6.43,1.78,56.0,39.78,11.58
+SNDR.N,Schneider National Inc,6.42,1.18,35.47,31.34,9.87
+MYRG.OQ,MYR Group Inc,6.41,1.31,87.71,58.96,14.63
+COGT.OQ,Cogent Biosciences Inc,6.4,0.37,9.06,35.9,-122.44
+GATX.N,GATX Corp,6.4,1.18,63.0,49.86,11.09
+BBAX.Z,JPMorgan BetaBuilders Dev Asia Pacific ex-Japan,6.39,0.8,,,
+CGON.OQ,CG Oncology Inc,6.39,,9.13,13.78,-8.37
+GOLF.N,Acushnet Holdings Corp,6.39,0.8,50.39,56.11,20.34
+CAMT.OQ,Camtek Ltd,6.38,1.59,57.05,35.74,23.74
+BYD.N,Boyd Gaming Corp,6.37,1.09,64.55,64.35,35.84
+APPF.OQ,Appfolio Inc,6.36,0.79,38.67,33.02,23.62
+UBSI.OQ,United Bankshares Inc,6.36,0.74,61.47,36.45,8.12
+S.N,SentinelOne Inc,6.36,0.81,18.48,24.01,-4.48
+FPE.P,First Trust Preferred Securities and Income ETF,6.36,0.35,,,
+ACT.OQ,Enact Holdings Inc,6.34,0.49,35.51,44.76,11.48
+LMBS.OQ,First Trust Low Duration Opportunities ETF,6.34,0.08,,,
+EXP.N,Eagle Materials Inc,6.34,1.38,45.36,27.03,32.63
+LQDA.OQ,Liquidia Corp,6.33,0.59,48.37,27.54,-99.12
+TXNM.N,TXNM Energy Inc,6.32,0.17,85.46,47.9,9.82
+PJT.N,PJT Partners Inc,6.29,0.85,48.55,38.95,118.16
+VWOB.OQ,Vanguard Emerging Markets Govt Bd Idx,6.28,0.5,,,
+VSXY.N,Victoria's Secret & Co,6.28,2.14,58.46,46.02,67.93
+XE.OQ,X-Energy Inc,6.27,,,,
+INGR.N,Ingredion Inc,6.26,0.61,95.31,66.79,16.47
+IAUM.P,iShares Gold Trust Micro,6.26,0.18,,,
+CWST.OQ,Casella Waste Systems Inc,6.24,0.74,47.08,54.44,7.93
+BEPC.N,Brookfield Renewable Corp,6.23,1.16,31.79,56.19,-1.8
+MATX.N,Matson Inc,6.21,1.28,74.09,55.3,29.67
+DLN.P,WisdomTree US LargeCap Dividend Fund,6.21,0.76,,,
+FLG.N,Flagstar Bank NA,6.2,1.01,16.94,33.41,9.62
+LGND.OQ,Ligand Pharmaceuticals Inc,6.2,1.17,61.25,31.64,14.22
+JAN.N,Janus Living Inc,6.18,,,,
+CGXU.P,Capital Group International Focus Equity ETF,6.17,0.95,,,
+DUOL.OQ,Duolingo Inc,6.17,0.87,,,8.4
+HWC.OQ,Hancock Whitney Corp,6.16,0.97,55.2,41.13,12.31
+CVLT.OQ,Commvault Systems Inc,6.16,0.79,77.33,69.74,59.03
+PATH.N,UiPath Inc,6.14,0.98,43.37,46.57,12.65
+POR.N,Portland General Electric Co,6.14,0.53,79.04,58.96,8.48
+VCR.P,Vanguard Consumer Discretionary ETF,6.12,1.24,,,
+MCY.N,Mercury General Corp,6.11,0.92,55.86,35.98,9.46
+STWD.N,Starwood Property Trust Inc (Maryland),6.1,1.03,38.11,28.59,11.27
+MIDD.OQ,Middleby Corp,6.1,1.32,84.12,51.79,16.56
+SPTS.P,SPDR Portfolio Short Term Treasury ETF,6.08,0.05,,,
+LB.N,LandBridge Co LLC,6.05,,,,12.0
+ABCB.N,Ameris Bancorp,6.04,,74.88,45.53,10.14
+CZR.OQ,Caesars Entertainment Inc,6.04,1.78,55.65,67.76,-11.47
+TFX.N,Teleflex Inc,6.04,0.82,44.46,65.97,14.92
+XAR.P,SPDR S&P Aerospace & Defense ETF,6.02,1.01,,,
+AUB.N,Atlantic Union Bankshares Corp,6.01,1.05,67.25,38.99,10.27
+MTG.N,MGIC Investment Corp,6.01,0.66,51.84,41.35,14.32
+EWC.P,iShares MSCI Canada ETF,6.0,0.86,,,
+FBIN.N,Fortune Brands Innovations Inc,6.0,1.29,59.36,60.18,22.92
+RIG.N,Transocean Ltd,6.0,1.33,61.6,40.37,-4.04
+M.N,Macy's Inc,5.99,1.5,82.09,64.91,25.47
+STVN.N,Stevanato Group SpA,5.99,0.78,,,13.5
+ESNT.N,Essent Group Ltd,5.98,0.76,61.17,53.08,14.67
+URBN.OQ,Urban Outfitters Inc,5.98,1.23,56.75,43.32,15.2
+KRMN.N,Karman Holdings Inc,5.98,,42.82,20.33,2.9
+ATVK.PK,Globaltek Ventures Inc,5.98,1.16,,,
+NJR.N,New Jersey Resources Corp,5.98,0.52,77.84,54.52,13.66
+ALTB.PK,Alpine Auto Brokers Inc,5.96,,,,
+LYFT.OQ,Lyft Inc,5.95,1.81,27.86,35.0,35.25
+MCHI.OQ,iShares Trust - iShares MSCI China ETF,5.95,0.35,,,
+IBP.N,"Installed Building Products, Inc",5.94,1.71,38.2,31.54,48.63
+FND.N,Floor & Decor Holdings Inc,5.94,1.57,46.49,37.96,13.5
+CWB.P,SPDR Bloomberg Convertible Securities ETF,5.92,0.72,,,
+MRCY.OQ,Mercury Systems Inc,5.9,0.95,33.11,37.33,3.55
+PSMT.OQ,PriceSmart Inc,5.9,0.77,29.59,29.53,11.88
+GTX.OQ,Garrett Motion Inc. (Delaware),5.9,0.82,81.3,79.18,-37.66
+BLTE.OQ,Belite Bio Inc,5.89,-1.26,,,-20.29
+VOX.P,Vanguard Communication Services Index Fund,5.89,1.06,,,
+CPA.N,Copa Holdings SA,5.88,0.99,45.83,28.87,26.3
+PSN.N,Parsons Corp,5.87,0.66,40.78,63.47,12.22
+HOMB.N,Home BancShares Inc,5.86,0.69,48.32,31.23,11.14
+RUSHA.OQ,Rush Enterprises Inc,5.86,0.88,43.14,40.74,13.5
+JHMM.P,John Hancock Multifactor Mid Cap ETF,5.85,0.99,,,
+MAAS.OQ,Maase Inc,5.85,0.01,,,
+SIGI.OQ,Selective Insurance Group Inc,5.85,0.29,65.76,54.19,12.15
+CHDN.OQ,Churchill Downs Inc,5.84,0.68,47.44,27.78,43.66
+OUT.N,Outfront Media Inc,5.84,1.48,70.39,51.41,16.93
+GSIE.P,Goldman Sachs ActiveBeta International Equity ETF,5.83,0.78,,,
+WFRD.OQ,Weatherford International PLC,5.83,0.87,24.02,60.95,17.99
+BLV.P,Vanguard Long-Term Bond Index Fund,5.81,0.56,,,
+BLCO.N,Bausch + Lomb Corp,5.79,0.56,,,2.93
+SSRM.OQ,SSR Mining Inc,5.79,-0.1,47.25,43.99,7.98
+FESM.P,Fidelity Enhanced Small Cap ETF,5.78,,,,
+WH.N,Wyndham Hotels & Resorts Inc,5.78,0.63,25.93,53.71,45.76
+KRG.N,Kite Realty Group Trust,5.78,0.85,70.42,52.38,1.42
+ENVA.N,Enova International Inc,5.77,1.23,51.36,28.62,20.57
+BKH.N,Black Hills Corp,5.77,0.7,54.28,42.03,8.57
+VSEC.OQ,VSE Corp,5.76,1.21,73.49,49.73,8.46
+AOREF.PK,American Overseas Group Ltd,5.75,0.55,,,
+VCTR.OQ,Victory Capital Holdings Inc,5.75,1.12,30.31,35.15,27.26
+ACIW.OQ,ACI Worldwide Inc,5.74,0.98,83.28,76.9,12.74
+MWH.OQ,Solv Energy Inc,5.73,,,,
+TAL.N,TAL Education Group,5.72,0.15,33.89,61.18,1.39
+SCHK.P,Schwab 1000 Index ETF,5.72,1.02,,,
+TECL.P,Direxion Daily Technology Bull 3X Shares ETF,5.7,4.13,,,
+DOX.OQ,Amdocs Ltd,5.68,0.42,77.3,75.53,19.86
+ENPH.OQ,Enphase Energy Inc,5.68,1.62,42.22,56.4,61.12
+BLLN.OQ,BillionToOne Inc,5.67,,,,
+GTLB.OQ,GitLab Inc,5.65,0.95,23.35,39.97,7.7
+RLI.N,RLI Corp,5.65,0.38,80.35,49.16,12.19
+GXO.N,GXO Logistics Inc,5.64,1.61,96.14,54.8,8.87
+URA.P,Global X Uranium ETF,5.63,1.14,,,
+TWST.OQ,Twist Bioscience Corp,5.63,2.13,41.58,42.7,-30.96
+QTUM.OQ,Defiance Quantum ETF,5.63,1.36,,,
+LAUR.OQ,Laureate Education Inc,5.61,0.4,68.74,46.15,15.57
+FELG.P,Fidelity Enhanced Large Cap Growth ETF,5.59,,,,
+RSPT.P,Invesco S&P 500 Eql Wght Technology ETF,5.59,1.34,,,
+KLIC.OQ,Kulicke and Soffa Industries Inc,5.57,1.66,70.38,53.75,15.97
+ERAS.OQ,Erasca Inc,5.57,0.67,19.08,33.24,-89.65
+WEX.N,WEX Inc,5.55,0.85,46.17,39.28,37.31
+REYN.OQ,Reynolds Consumer Products Inc,5.54,0.53,36.43,37.43,16.26
+CLF.N,Cleveland-Cliffs Inc,5.54,2.12,90.09,76.04,9.77
+OZK.OQ,Bank Ozk,5.53,0.88,35.34,31.93,12.9
+AX.N,Axos Financial Inc,5.53,1.23,40.19,21.78,17.12
+VAL.N,Valaris Ltd,5.51,0.95,72.72,59.04,16.4
+CAR.OQ,Avis Budget Group Inc,5.51,1.91,63.35,54.78,-230.94
+PDBC.OQ,Invesco Optimum Yld Dvsfd Cmd Str No K-1 ETF,5.49,0.06,,,
+MUU.OQ,Direxion Daily MU Bull 2X Shares,5.49,,,,
+AMRX.OQ,Amneal Pharmaceuticals Inc,5.49,1.27,50.38,42.21,-57.09
+ZETA.N,Zeta Global Holdings Corp,5.45,1.4,30.29,28.46,65.54
+DFTX.OQ,Definium Therapeutics Inc,5.44,2.23,24.51,22.28,-270.82
+BXSL.N,Blackstone Secured Lending Fund,5.44,0.43,21.74,18.77,10.85
+MMYT.OQ,MakeMyTrip Ltd,5.43,0.98,34.0,43.85,-502.53
+LMND.N,Lemonade Inc,5.43,1.81,14.48,25.24,-31.62
+MTN.N,Vail Resorts Inc,5.4,0.72,79.08,52.93,26.66
+DNTH.OQ,Dianthus Therapeutics Inc,5.39,1.23,34.32,25.04,-420.45
+XMHQ.P,Invesco S and P MidCap Quality ETF,5.39,0.98,,,
+OBDC.N,Blue Owl Capital Corp,5.39,0.67,20.82,29.8,10.97
+SEZL.OQ,Sezzle Inc,5.39,,45.59,39.23,36.08
+WTM.N,White Mountains Insurance Group Ltd,5.39,0.29,52.83,36.52,6.71
+PRM.N,Perimeter Solutions Inc,5.36,1.89,55.7,35.46,3.34
+REZI.N,Resideo Technologies Inc,5.36,1.65,73.89,67.28,12.71
+NXST.OQ,Nexstar Media Group Inc,5.36,0.9,66.57,43.93,24.67
+UPRO.P,ProShares UltraPro S&P500,5.34,3.03,,,
+SCHC.P,Schwab International Small Cap Equity ETF,5.34,0.92,,,
+PEGA.OQ,Pegasystems Inc,5.34,0.88,58.6,58.57,33.5
+QLYS.OQ,Qualys Inc,5.34,0.61,36.01,37.04,46.93
+NOVT.OQ,Novanta Inc,5.33,1.68,36.57,54.98,16.34
+DSI.P,iShares ESG MSCI KLD 400 ETF,5.32,1.08,,,
+PECO.OQ,Phillips Edison & Co Inc,5.31,0.52,92.36,65.48,2.67
+XMTR.OQ,Xometry Inc,5.31,1.28,23.23,38.47,-17.03
+SON.N,Sonoco Products Co,5.3,0.36,61.6,63.21,21.97
+TXG.OQ,10X Genomics Inc,5.3,2.04,46.43,22.09,-19.09
+SRLN.P,SPDR Blackstone Senior Loan ETF,5.3,0.17,,,
+ROAD.OQ,Construction Partners Inc,5.29,0.88,18.19,11.2,9.63
+ESAB.N,ESAB Corp,5.28,1.14,74.3,56.91,13.73
+BGC.OQ,Bgc Group Inc,5.26,0.95,3.99,17.79,48.67
+CE.N,Celanese Corp,5.26,0.75,84.01,69.25,23.11
+FTDR.OQ,Frontdoor Inc,5.25,1.47,39.89,30.86,-216.97
+TVTX.OQ,Travere Therapeutics Inc,5.23,1.12,80.24,58.71,-350.93
+KVYO.N,Klaviyo Inc,5.23,,,,6.75
+ALK.N,Alaska Air Group Inc,5.21,1.29,92.29,58.82,9.84
+VRNS.OQ,Varonis Systems Inc,5.21,0.82,16.59,23.37,6.33
+AIR.N,AAR Corp,5.21,1.11,62.23,50.08,10.22
+GLNG.OQ,Golar LNG Ltd,5.2,0.03,49.75,39.57,10.79
+GVA.N,Granite Construction Inc,5.19,1.31,77.28,62.5,15.16
+KWEB.P,KraneShares CSI China Internet ETF,5.19,0.36,,,
+SPHR.N,Sphere Entertainment Co,5.19,1.64,1.81,12.02,1.12
+BCPC.OQ,Balchem Corp,5.19,0.81,69.19,57.73,13.22
+SHC.OQ,Sotera Health Co,5.18,1.77,50.83,50.09,48.41
+HRB.N,H & R Block Inc,5.18,0.37,86.35,38.99,30.67
+NTSK.OQ,Netskope Inc,5.17,,,,
+G.N,Genpact Ltd,5.17,0.61,87.74,83.26,25.55
+LVHI.Z,Franklin Intl Low Volatility High Dividend Index,5.16,0.37,,,
+EFAV.Z,iShares MSCI EAFE Min Vol Factor ETF,5.15,0.49,,,
+IRDM.OQ,Iridium Communications Inc,5.15,0.88,37.88,33.15,8.83
+EBC.OQ,Eastern Bankshares Inc,5.15,0.69,22.66,26.88,7.48
+FINN.PK,First National of Nebraska Inc,5.14,,,,
+FDN.P,First Trust Dow Jones Internet Index Fund,5.14,1.22,,,
+ALH.N,Alliance Laundry Holdings Inc,5.14,,,,
+MTRN.N,Materion Corp,5.13,1.04,71.12,65.01,12.69
+SEI.N,Solaris Energy Infrastructure Inc,5.13,1.2,43.71,29.18,13.71
+PIPR.N,Piper Sandler Companies,5.11,1.43,47.19,50.35,9.52
+STEP.OQ,StepStone Group Inc,5.11,1.27,30.5,46.48,-7.21
+ASB.N,Associated Banc-Corp,5.11,0.77,55.66,61.33,9.25
+RGTI.OQ,Rigetti Computing Inc,5.11,1.99,19.7,9.04,-63.62
+GHC.N,Graham Holdings Co,5.1,0.71,20.32,21.23,5.56
+ORKA.OQ,Oruka Therapeutics Inc,5.1,-0.29,14.88,19.11,-5.68
+GNTX.OQ,Gentex Corp,5.09,0.78,58.97,44.67,16.83
+ISTB.OQ,iShares Core 1-5 Year USD Bond ETF,5.06,0.11,,,
+RITM.N,Rithm Capital Corp,5.06,1.13,4.57,12.51,15.79
+CELC.OQ,Celcuity Inc,5.06,0.19,34.43,27.99,-139.0
+IEP.OQ,Icahn Enterprises LP,5.06,0.73,10.2,5.73,-17.32
+SLYG.P,SPDR S&P 600 SMALL CAP GROWTH ETF,5.06,1.05,,,
+RDN.N,Radian Group Inc,5.05,0.72,70.2,64.25,14.36
+OICT.PK,Oicintra Inc,5.05,,,,
+VSNT.OQ,Versant Media Group Inc,5.05,,,,
+OGS.N,ONE Gas Inc,5.04,0.65,79.81,45.32,8.53
+LPX.N,Louisiana-Pacific Corp,5.04,1.6,13.26,47.0,34.16
+PTRN.OQ,Pattern Group Inc,5.03,,,,
+CUZ.N,Cousins Properties Inc,5.02,1.17,85.59,73.48,2.74
+GPIQ.OQ,Goldman Sachs Nasdaq-100 Premium Income ETF,5.02,,,,
+SBIL.P,Simplify Government Money Market ETF,5.01,,,,
+MUR.N,Murphy Oil Corp,5.0,0.51,81.05,67.59,9.95
+SGDH.PK,AI Metaverse Holdings Corp,5.0,0.81,,,
